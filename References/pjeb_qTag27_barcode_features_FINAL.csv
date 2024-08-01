@@ -1,0 +1,8 @@
+feature,strand,reference,reference_length,start,end,#base_matches,length_feature
+pjeb_barcoding_vector,+,Erdman_medaka1x_pp3x_fixstart_03202024,4416075,2764911,2770126,5215,5215
+attP_core_sequence,-,Erdman_medaka1x_pp3x_fixstart_03202024,4416075,2764912,2764955,43,43
+qTag_v27,-,Erdman_medaka1x_pp3x_fixstart_03202024,4416075,2765549,2765720,171,171
+barcode_random_7mer,-,Erdman_medaka1x_pp3x_fixstart_03202024,4416075,2765720,2765727,7,7
+OriE,-,Erdman_medaka1x_pp3x_fixstart_03202024,4416075,2765750,2766543,790,794
+aph_KanR,-,Erdman_medaka1x_pp3x_fixstart_03202024,4416075,2766824,2767640,816,816
+L5_integrase,-,Erdman_medaka1x_pp3x_fixstart_03202024,4416075,2768841,2769840,996,999
