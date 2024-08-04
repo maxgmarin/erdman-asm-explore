@@ -1,0 +1,772 @@
+ID   NC_000962; SV ; linear; genomic DNA; STD; UNA; 4411532 BP.
+XX
+AC   NC_000962;
+XX
+DT   14-DEC-2017 (Rel. 1, Created)
+DT   14-DEC-2017 (Rel. 1, Last updated, Version 1)
+XX
+DE   Mycobacterium tuberculosis H37Rv, complete genome.
+XX
+KW   RefSeq; complete genome.
+XX
+OS   Mycobacterium tuberculosis H37Rv
+OC   .
+XX
+RN   [1]
+RC   SGRef: number: 1; type: "Journal Article"; journalName: "Tuberculosis 
+RC   (Edinb)"; date: "2011"; volume: "91"; issue: "1"; pages: "1-7"
+RP   1 to 4411532
+RX   PUBMED; 20980199.
+RA   Lew JM, Kapopoulou A, Jones LM, Cole ST.
+RT   "TubercuList--10 years after"
+RL   Tuberculosis (Edinb) 91 (1), 1-7 (2011)
+RN   [2]
+RC   SGRef: number: 2; type: "Journal Article"; journalName: "Microbiology 
+RC   (Reading, Engl.) 148 (PT 10), 2967-2973 (2002)"
+RP   1 to 4411532
+RX   PUBMED; 12368430.
+RA   Camus JC, Pryor MJ, Medigue C, Cole ST.
+RT   "Re-annotation of the genome sequence of Mycobacterium tuberculosis H37Rv"
+RL   Microbiology (Reading, Engl.) 148 (PT 10), 2967-2973 (2002)
+RN   [3]
+RC   SGRef: number: 3; type: "Journal Article"; journalName: "Nature"; date: 
+RC   "1998"; volume: "393"; issue: "6685"; pages: "537-544"
+RP   1 to 4411532
+RX   PUBMED; 9634230.
+RA   Cole ST, Brosch R, Parkhill J, Garnier T, Churcher C, Harris D, Gordon SV, 
+RA   Eiglmeier K, Gas S, Barry CE III, Tekaia F, Badcock K, Basham D, Brown D, 
+RA   Chillingworth T, Connor R, Davies R, Devlin K, Feltwell T, Gentles S, 
+RA   Hamlin N, Holroyd S, Hornsby T, Jagels K, Krogh A, McLean J, Moule S, 
+RA   Murphy L, Oliver K, Osborne J, Quail MA, Rajandream MA, Rogers J, Rutter S,
+RA   Seeger K, Skelton J, Squares R, Squares S, Sulston JE, Taylor K, Whitehead 
+RA   S, Barrell BG.
+RT   "Deciphering the biology of Mycobacterium tuberculosis from the complete 
+RT   genome sequence"
+RL   Nature 393 (6685), 537-544 (1998)
+RN   [4]
+RC   SGRef: number: 4; type: "Journal Article"; journalName: "Submitted 
+RC   (06-FEB-2013) National Center for Biotechnology Information, NIH, Bethesda,
+RC   MD 20894, USA"
+RP   1 to 4411532
+RA   ;
+RT   "Direct Submission"
+RL   Submitted (06-FEB-2013) National Center for Biotechnology Information, NIH,
+RL   Bethesda, MD 20894, USA
+RN   [5]
+RC   SGRef: number: 5; type: "Journal Article"; journalName: "Submitted 
+RC   (18-DEC-2012) Lew J., Ecole Polytechnique Federale de Lausanne, CH-1015, 
+RC   Lausanne, Switzerland, and the Swiss Institute of Bioinformatics, CMU - Rue
+RC   Michel-Servet 1, 1211 Geneva 4, SWITZERLAND"
+RP   1 to 4411532
+RA   Lew JM.
+RT   "Direct Submission"
+RL   Submitted (18-DEC-2012) Lew J., Ecole Polytechnique Federale de Lausanne, 
+RL   CH-1015, Lausanne, Switzerland, and the Swiss Institute of Bioinformatics, 
+RL   CMU - Rue Michel-Servet 1, 1211 Geneva 4, SWITZERLAND
+RN   [6]
+RP   1 to 4411532
+RA   .
+RT   "Direct Submission"
+RL   Exported Dec 7, 2022 from SnapGene Viewer 6.0.2
+RL   https://www.snapgene.com
+XX
+CC   REVIEWED REFSEQ: This record has been curated by NCBI staff. The reference 
+CC   sequence is identical to AL123456.
+CC   On Feb 6, 2013 this sequence version replaced NC_000962.2.
+CC   RefSeq Category: Reference Genome
+CC               FGS: First Genome sequenced
+CC               MOD: Model Organism
+CC               TYS: Designated Type Strain
+CC               UPR: UniProt Genome
+CC   Note:
+CC   This annotation is from the TubercuList website, Release 26, Dec 2012 (URL:
+CC   http://tuberculist.epfl.ch) (email: tuberculist@epfl.ch).
+CC   COMPLETENESS: full length.
+FH   Key             Location/Qualifiers
+FH
+FT   repeat_region   join(890376..890379)
+FT                   /note="4 bp direct repeat: GAGG, at the left end of
+FT                   IS6110"
+FT   gene            complement(join(1520005..1521876))
+FT                   /locus_tag="Rv1354c"
+FT                   /label=Rv1354c
+FT                   /db_xref="GeneID:886829"
+FT   CDS             complement(join(1520005..1521876))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1354c"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv1354c
+FT                   /db_xref="GeneID:886829"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="NP_215870.1"
+FT                   /translation="MCNDTATPQLEELVTTVANQLMTVDAATSAEVSQRVLAYLVEQLG
+FT                   VDVSFLRHNDRDRRATRLVAEWPPRLNIPDPDPLRLIYFADADPVFALCEHAKEPLVFR
+FT                   PEPATEDYQRLIEEARGVPVTSAAAVPLVSGEITTGLLGFIKFGDRKWHEAELNALMTI
+FT                   ATLFAQVQARVAAEARLRYLADHDDLTGLHNRRALLQHLDQRLAPGQPGPVAALFLDLD
+FT                   RLKAINDYLGHAAGDQFIHVFAQRIGDALVGESLIARLGGDEFVLIPASPMSADAAQPL
+FT                   AERLRDQLKDHVAIGGEVLTRTVSIGVASGTPGQHTPSDLLRRADQAALAAKHAGGDSV
+FT                   AIFTADMSVSGELRNDIELHLRRGIESDALRLVYLPEVDLRTGDIVGTEALVRWQHPTR
+FT                   GLLAPGCFIPVAESINLAGELDRWVLRRACNEFSEWQSAGLGHDALLRINVSAGQLVTG
+FT                   GFVDFVADTIGQHGLDASSVCLEITENVVVQDLHTARATLARLKEVGVHIAIDDFGTGY
+FT                   SAISLLQTLPIDTLKIDKTFVRQLGTNTSDLVIVRGIMTLAEGFQLDVVAEGVETEAAA
+FT                   RILLDQRCYRAQGFLFSRPVPGEAMRHMLSARRLPPTCIPATDPALS"
+FT   gene            complement(join(1521885..1524032))
+FT                   /gene="moeY"
+FT                   /locus_tag="Rv1355c"
+FT                   /label=moeY
+FT                   /db_xref="GeneID:886839"
+FT   CDS             complement(join(1521885..1524032))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="moeY"
+FT                   /locus_tag="Rv1355c"
+FT                   /product="molybdopterin biosynthesis protein MoeY"
+FT                   /label=moeY
+FT                   /db_xref="GeneID:886839"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:15525680]"
+FT                   /protein_id="NP_215871.1"
+FT                   /translation="MTIPHEGGSTGILVLRDDDHDDVLVLDRLRSDPSIEFVDRFAEQL
+FT                   AGVRRLLPQPDPDLLEEAKRWAYYPWRRMVVAILGLRGFRAVRLDRNRHLITAEEQRAL
+FT                   HALRVGVVGLSAGHAIAYTLAAEGACGTLRLADFDKIELSNLNRVPVGVFDIGLNKAMI
+FT                   AARRIAELDPYLAVDLVTSGLSPESVDEFLDGLDVVIEECDSLDIKVILRQAACARGVP
+FT                   VLMATSDRGLVDVERYDVEPGRPIFHGLLGDIDADKLCGLTTKDKVPHVLNILDCQELS
+FT                   ARCAASMIEVDQTLWGWPQLAGDIWVGAATVAEAVRRIGLGEPLESGRVRVDVSAALDR
+FT                   LDQPPMPSRGNGWLLESVPPTAPAEPQPTSEIVAQAAIRAPSGGNVQPWHVVAKQHSLT
+FT                   IRLAPEHTSAMDIAFRGSAVAVGAAMFNARVAAAAHRVLGSVEFDESQPDSPLQATMHF
+FT                   GRGDDPSLAALYRPMLLRTTNRHHGMPGHVHPATVELLTNTAAAEGARLQLLLSRNEID
+FT                   RAATILAAADRIRYLTPRLHEEMMSELRWPGDPSLDAGIDVRSLELDSGELRVLDILRR
+FT                   SDVVARLAQWDCGTALEDNTNERVSASSALAIVYVDGATLTDFARGGSAMQAVWIVAQQ
+FT                   HGLAVQPMSPIFLYARGRHDLDQASPHFAAQLHRLQLDFRELVKPGKEGHEVLIFRLFH
+FT                   APPPSVCSRRRVRHAIPEPHR"
+FT   gene            join(1779314..1779724)
+FT                   /locus_tag="Rv1573"
+FT                   /label=Rv1573
+FT                   /db_xref="GeneID:886337"
+FT   CDS             join(1779314..1779724)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1573"
+FT                   /product="phage protein"
+FT                   /label=Rv1573
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886337"
+FT                   /protein_id="NP_216089.1"
+FT                   /translation="MTTTPARFNHLVTVTDLETGDRAVCDRDQVAETIRAWFPDAPLEV
+FT                   REALVRLQAALNRHEHTGELEAFLRISVEHADAAGGDECGPAILAGRSGPEQAAINRQL
+FT                   GLAGDDEPDGDDTPPWSRMIGLGGGSPAEDER"
+FT   gene            join(1779930..1780241)
+FT                   /locus_tag="Rv1574"
+FT                   /label=Rv1574
+FT                   /db_xref="GeneID:886331"
+FT   CDS             join(1779930..1780241)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1574"
+FT                   /product="phage protein"
+FT                   /label=Rv1574
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886331"
+FT                   /protein_id="NP_216090.1"
+FT                   /translation="MGYKPESERHSTKTDTAIGAALGISAGTYRRLKRIDNATHSDDKE
+FT                   IRRFAEKQMAPLVAGSPSWNARKPRSANARVVASVHRSPMPALVPWNQSRLSATLTRR"
+FT   repeat_region   join(1779959..1780047)
+FT                   /note="89 bp direct repeat 2, first copy at
+FT                   1780485..1780573, 
+FT                   GGGTTGCGTTGTCGATTCGTTTGAGCCGCCGGTAGGTGCCGGCGGAGATGCCGAGGGC 
+FT                   TG CGCCGATAGCAGTGTCTGTTTTCGTCGAA. This region is a possible
+FT                   MT-complex-specific genomic island (See Becq et al.,2007)."
+FT   gene            join(1780199..1780699)
+FT                   /locus_tag="Rv1575"
+FT                   /label=Rv1575
+FT                   /db_xref="GeneID:886335"
+FT   CDS             join(1780199..1780699)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1575"
+FT                   /product="phage protein"
+FT                   /label=Rv1575
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886335"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_216091.2"
+FT                   /translation="MEPKPSQRHTDKEVGAALGISAGTYKRLKRIDNATRSDDKEIRLF
+FT                   AEKQMAPLAAGSPSWNGRKPSSGNRKAATMAARLDILAWGPWAPSQNRSVVRRKQTLLS
+FT                   AQPSASPPAPTGGSNESTTQPAASWRVGGPAPLSRGRPRLALSYLRGSLHLQNSKRVAH
+FT                   QHI"
+FT   repeat_region   join(1780485..1780573)
+FT                   /note="89 bp direct repeat 1, second copy at
+FT                   1779959..1780047, 
+FT                   GGGTTGCGTTGTCGATTCGTTTGAGCCGCCGGTAGGTGCCGGCGGAGATGCCGAGGGC 
+FT                   TG CGCCGATAGCAGTGTCTGTTTTCGTCGAA. Many repeats, both direct
+FT                   and inverted, in this region. This region is a possible 
+FT                   MT-complex-specific genomic island (See Becq et al.,2007)."
+FT   gene            complement(join(1780643..1782064))
+FT                   /locus_tag="Rv1576c"
+FT                   /label=Rv1576c
+FT                   /db_xref="GeneID:886327"
+FT   CDS             complement(join(1780643..1782064))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1576c"
+FT                   /product="phage capsid protein"
+FT                   /label=Rv1576c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886327"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:15525680]"
+FT                   /protein_id="NP_216092.1"
+FT                   /translation="MTEFDDIKNLSLPETRDAAKQLLDSVAGDLTGEAAQRFQALTRHA
+FT                   EELRAEQRRRGREAEEALRRYRAGELRVVPGAPTGGDDGDAPPGNSLRDTAFRTLDSCV
+FT                   RDGLMSSRAAETAETLCRTGPPQSTSWAQRWLAATGSRDYLGAFVKRVSNPVAGHTVWT
+FT                   DREAAAWREAAAVAAEQRAMGLVDTQGGFLIPAALDPAILLSGDGSTNPIRQVARVVQT
+FT                   TSEIWRGVTSEGAEARWYSEAQEVSDDSPALAQPAVPNYRGSCWIPFSIELEGDAASFV
+FT                   GEIGKILADSVEQLQAAAFVNGSGNGEPTGFVSALTGTSDQVVVGAGSEAIVAADVYAL
+FT                   QSALPPRFQASAAFAANLSTINTLRQAETSNGALKFPSLHDSPPMLAGKSVLEVSHMDT
+FT                   VDSAVTATNHPLVLGDWKQFLIGDRVGSMVELVPHLFGPNRRPTGQRGFFAWFRVGSDV
+FT                   LVRNAFRVLKVETTA"
+FT   gene            complement(join(1782072..1782584))
+FT                   /locus_tag="Rv1577c"
+FT                   /label=Rv1577c
+FT                   /db_xref="GeneID:886329"
+FT   CDS             complement(join(1782072..1782584))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1577c"
+FT                   /product="phage prohead protease"
+FT                   /label=Rv1577c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886329"
+FT                   /protein_id="NP_216093.1"
+FT                   /translation="MAELRSGEGRTVHGTIVPYNEATTVRDFDGEFQEMFAPGAFRRSI
+FT                   AERGHKLKLLVSHDARTRYPVGRAVELREEPHGLFGAFEIADTPDGDEALANVKAGVVD
+FT                   SFSVGFRPIRDRREGDVLVRVEAALLEVSLTGVPAYSGAQIAGVRAESLTVVSRSTAEA
+FT                   WLSLLDW"
+FT   gene            complement(join(1782758..1783228))
+FT                   /locus_tag="Rv1578c"
+FT                   /label=Rv1578c
+FT                   /db_xref="GeneID:886322"
+FT   CDS             complement(join(1782758..1783228))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1578c"
+FT                   /product="phage protein"
+FT                   /label=Rv1578c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886322"
+FT                   /inference="protein motif:same species:PS00221"
+FT                   /protein_id="NP_216094.1"
+FT                   /translation="MPRPPKPARLKLVEGRSPGRDSGGRKVPESPKFIRQAPDAPDWLD
+FT                   AEALAEWRRVAPTLERLDLLKPEDRALLSAYCETWSVYVAAVQRVRAEGLTITSPKSGV
+FT                   VHRNPAVTVAETARMHLLRLASEFGLTPAAEQRLAVAPGDDGDGLNPFAPDR"
+FT   gene            complement(join(1783309..1783623))
+FT                   /locus_tag="Rv1579c"
+FT                   /label=Rv1579c
+FT                   /db_xref="GeneID:886369"
+FT   CDS             complement(join(1783309..1783623))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1579c"
+FT                   /product="phage protein"
+FT                   /label=Rv1579c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886369"
+FT                   /protein_id="NP_216095.1"
+FT                   /translation="MTPINRPLTNDERQLMHELAVQVVCSQTGCSPDAAVEALESFAKD
+FT                   GTLILRGDTENAYLEAGGNVLVHADRDWLAFHASYPGNDPLRDARPIEQDDDQGAGSPS
+FT                   "
+FT   gene            complement(join(1783620..1783892))
+FT                   /locus_tag="Rv1580c"
+FT                   /label=Rv1580c
+FT                   /db_xref="GeneID:886313"
+FT   CDS             complement(join(1783620..1783892))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1580c"
+FT                   /product="phage protein"
+FT                   /label=Rv1580c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886313"
+FT                   /protein_id="NP_216096.1"
+FT                   /translation="MAETPDHAELRRRIADMAFNADVGMATCKRCGDAVPYIILPNLQT
+FT                   GEPVMGVADNKWKRANCPVDVGKPCPFLIAEGVADSTDDTIEVDQ"
+FT   gene            complement(join(1783906..1784301))
+FT                   /locus_tag="Rv1581c"
+FT                   /label=Rv1581c
+FT                   /db_xref="GeneID:886318"
+FT   CDS             complement(join(1783906..1784301))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1581c"
+FT                   /product="phage protein"
+FT                   /label=Rv1581c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886318"
+FT                   /protein_id="NP_216097.1"
+FT                   /translation="MTAVAITPASGGRHSVRFAYDSAIVSLIKSTIPAYARSWSAHTRC
+FT                   WFIDADWTPLLAAELRYHGHTVTGPADPAQQQCTDWAKALFRAVGPQRTPAVYRALSKV
+FT                   LHPDAPTGCPILQQQLNAARTALTNPA"
+FT   gene            complement(join(1784497..1785912))
+FT                   /locus_tag="Rv1582c"
+FT                   /label=Rv1582c
+FT                   /db_xref="GeneID:886311"
+FT   CDS             complement(join(1784497..1785912))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1582c"
+FT                   /product="phage protein"
+FT                   /label=Rv1582c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886311"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="NP_216098.1"
+FT                   /translation="MADIPYGTDYPDAPWIDRDGHVLIDDGGKPTQVHRGQARIAYRLA
+FT                   ERYQDKLLHVAGIGWHSWDGRRWAADDRGEAKRAVLAELRQALSDSLNDKELRADVRKC
+FT                   ESASGVAGVLDLAAALVPFAATVADLDSDPHLLNVANGTLDLHTLKLRPHAPADRITKI
+FT                   CRGAYQSDTESPLWQAFLTRVLPDEGVRGFVQRLAGVGLLGTVREHVLAILIGVGANGK
+FT                   SVFDKAIRYALGDYACTAEPDLFMHRENAHPTGEMDLRGVRWVAVSESEKDRRLAESTI
+FT                   KRLTGGDTIRARKMRQDFVEFTPSHTPLLITNHLPRVPGDDTAIWRRIRVVPFEVVIPA
+FT                   DEQDRELDARLQLEADSILSWAVAGWSDYQRIGLSQPDAVLAATSNYREDSDTIKRFID
+FT                   DECVTSSPVLKATTTHLFEAWQRWRVQEGVPEISRKAFGQSLDTHGYPVTDKARDGRWR
+FT                   AGIAVRGADDFDD"
+FT   gene            complement(join(1785912..1786310))
+FT                   /locus_tag="Rv1583c"
+FT                   /label=Rv1583c
+FT                   /db_xref="GeneID:886315"
+FT   CDS             complement(join(1785912..1786310))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1583c"
+FT                   /product="phage protein"
+FT                   /label=Rv1583c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886315"
+FT                   /protein_id="NP_216099.1"
+FT                   /translation="MTAGAGGSPPTRRCPATEDRAPATVATPSSADPTASRAVSWWSVH
+FT                   EHVAPVLDAAGSWPMAGTPAWRQLDDADPRKWAAICDAARHWALRVETCQEAMAQASRD
+FT                   VSAAADWPGIAREIVRRRGVYIPRAGVA"
+FT   gene            complement(join(1786307..1786528))
+FT                   /locus_tag="Rv1584c"
+FT                   /label=Rv1584c
+FT                   /db_xref="GeneID:886307"
+FT   CDS             complement(join(1786307..1786528))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1584c"
+FT                   /product="phage protein"
+FT                   /label=Rv1584c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886307"
+FT                   /protein_id="NP_216100.1"
+FT                   /translation="MSTIYHHRGRVAALSRSRASDDPEFIAAKTDLVAANIADYLIRTL
+FT                   AAAPPLTDEQRTRLAELLRPVRRSGGAR"
+FT   gene            complement(join(1786584..1787099))
+FT                   /locus_tag="Rv1585c"
+FT                   /label=Rv1585c
+FT                   /db_xref="GeneID:886309"
+FT   CDS             complement(join(1786584..1787099))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1585c"
+FT                   /product="phage protein"
+FT                   /label=Rv1585c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886309"
+FT                   /protein_id="NP_216101.1"
+FT                   /translation="MSRHHNIVIVCDHGRKGDGRIEHERCDLVAPIIWVDETQGWLPQA
+FT                   PAVATLLDDDNQPRAVIGLPPNESRLRPEMRRDGWVRLHWEFACLRYGAAGVRTCEQRP
+FT                   VRVRNGDLQTLCENVPRLLTGLAGNPDYAPGFAVQSDAVVVAMWLWRTLCESDTPNKLR
+FT                   ATPTRGSC"
+FT   gene            complement(join(1787096..1788505))
+FT                   /locus_tag="Rv1586c"
+FT                   /label=Rv1586c
+FT                   /db_xref="GeneID:886305"
+FT   CDS             complement(join(1787096..1788505))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1586c"
+FT                   /product="phage integrase"
+FT                   /label=Rv1586c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886305"
+FT                   /protein_id="NP_216102.1"
+FT                   /translation="MRYTTPVRAAVYLRISEDRSGEQLGVARQREDCLKLCGQRKWVPV
+FT                   EYLDNDVSASTGKRRPAYEQMLADITAGKIAAVVAWDLDRLHRRPIELEAFMSLADEKR
+FT                   LALATVAGDVDLATPQGRLVARLKGSVAAHETEHKKARQRRAARQKAERGHPNWSKAFG
+FT                   YLPGPNGPEPDPRTAPLVKQAYADILAGASLGDVCRQWNDAGAFTITGRPWTTTTLSKF
+FT                   LRKPRNAGLRAYKGARYGPVDRDAIVGKAQWSPLVDEATFWAAQAVLDAPGRAPGRKSV
+FT                   RRHLLTGLAGCGKCGNHLAGSYRTDGQVVYVCKACHGVAILADNIEPILYHIVAERLAM
+FT                   PDAVDLLRREIHDAAEAETIRLELETLYGELDRLAVERAEGLLTARQVKISTDIVNAKI
+FT                   TKLQARQQDQERLRVFDGIPLGTPQVAGMIAELSPDRFRAVLDVLAEVVVQPVGKSGRI
+FT                   FNPERVQVNWR"
+FT   repeat_region   complement(join(1982887..1982964))
+FT                   /gene="PPE24"
+FT                   /locus_tag="Rv1753c"
+FT                   /note="78 bp imperfect direct repeat
+FT                   6, 
+FT                   CGGCGCCTTCAGCCTGCCCGGGTTGACGTTGCCGTCGTTGAACATCCCGGCCGCCACC 
+FT                   ACACCCGCCAACATCACCGT"
+FT   repeat_region   complement(join(1982965..1983042))
+FT                   /gene="PPE24"
+FT                   /locus_tag="Rv1753c"
+FT                   /note="78 bp imperfect direct repeat
+FT                   5, 
+FT                   CGGCGCCTTCAGCCTGCCCGGGTTGACGTTGCCGTCGTTGAACATCCCGGCCGCCACC 
+FT                   ACACCAGCCAACATCACCGT"
+FT   repeat_region   complement(join(1983043..1983120))
+FT                   /gene="PPE24"
+FT                   /locus_tag="Rv1753c"
+FT                   /note="78 bp imperfect direct repeat
+FT                   4, 
+FT                   CGGCGCCTTCAGCCTGCCCGGGTTGACGTTGCCGTCGTTGAACATCCCGGCCGCCACC 
+FT                   ACACCAGCCAACATCACCGT"
+FT   repeat_region   complement(join(1983121..1983198))
+FT                   /gene="PPE24"
+FT                   /locus_tag="Rv1753c"
+FT                   /note="78 bp imperfect direct repeat
+FT                   3, 
+FT                   GGGTGCCTTCAGCCTGCCCGGGTTGACGTTGCCGTCGTTGAACATCCCGGCCGCCACC 
+FT                   ACACCAGCCAACATCACCGT"
+FT   repeat_region   complement(join(1983199..1983276))
+FT                   /gene="PPE24"
+FT                   /locus_tag="Rv1753c"
+FT                   /note="78 bp imperfect direct repeat
+FT                   2, 
+FT                   CGGCGCCTTCAGCCTGCCCGGGTTGACGTTGCCGTCGTTGAACATCCCGGCCGCCACC 
+FT                   ACACCAGCCAACATCACCGT"
+FT   repeat_region   complement(join(1983277..1983354))
+FT                   /gene="PPE24"
+FT                   /locus_tag="Rv1753c"
+FT                   /note="78 bp imperfect direct repeat
+FT                   1, 
+FT                   TCCCGCCTTCAGTCTGCCGGCAATAACGCTGCCGTCGCTGAACATCCCGGCCGCCACC 
+FT                   ACACCGGCCAACATCACCGT"
+FT   gene            join(2545332..2545631)
+FT                   /locus_tag="Rv2271"
+FT                   /label=Rv2271
+FT                   /db_xref="GeneID:887223"
+FT   CDS             join(2545332..2545631)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv2271"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv2271
+FT                   /db_xref="GeneID:887223"
+FT                   /protein_id="NP_216787.1"
+FT                   /translation="MTTPPDKARRRFLRDAYKNAERVARTALLTIDQDQLEQLLDYVDE
+FT                   RLGEQPCDHTARHAQRWAQSHRIEWETLAEGLQEFGGYCDCEIVMNVEPEAIFG"
+FT   gene            join(2545737..2546105)
+FT                   /locus_tag="Rv2272"
+FT                   /label=Rv2272
+FT                   /db_xref="GeneID:887459"
+FT   CDS             join(2545737..2546105)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv2272"
+FT                   /product="transmembrane protein"
+FT                   /label=Rv2272
+FT                   /db_xref="GeneID:887459"
+FT                   /protein_id="NP_216788.1"
+FT                   /translation="MADDSNDTATDVEPDYRFTLANERTFLAWQRTALGLLAAAVALVQ
+FT                   LVPELTIPGARQVLGVVLAILAILTSGMGLLRWQQADRAMRRHLPLPRHPTPGYLAVGL
+FT                   CVVGVVALALVVAKAITG"
+FT   gene            join(2546102..2546431)
+FT                   /locus_tag="Rv2273"
+FT                   /label=Rv2273
+FT                   /db_xref="GeneID:888440"
+FT   CDS             join(2546102..2546431)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv2273"
+FT                   /product="transmembrane protein"
+FT                   /label=Rv2273
+FT                   /db_xref="GeneID:888440"
+FT                   /protein_id="NP_216789.1"
+FT                   /translation="MNRHSTAASDRGLQAERTTLAWTRTAFALLVNGVLLTLKDTQGAD
+FT                   GPAGLIPAGLAGAAASCCYVIALQRQRALSHRPLPARITPRGQVHILATAVLVLMVVTA
+FT                   FAQLL"
+FT   gene            complement(join(2546488..2546805))
+FT                   /gene="mazF8"
+FT                   /locus_tag="Rv2274c"
+FT                   /label=mazF8
+FT                   /db_xref="GeneID:888067"
+FT   CDS             complement(join(2546488..2546805))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="mazF8"
+FT                   /locus_tag="Rv2274c"
+FT                   /product="toxin MazF8"
+FT                   /label=mazF8
+FT                   /note="part of toxin-antitoxin (TA) operon with Rv2274c"
+FT                   /db_xref="GeneID:888067"
+FT                   /protein_id="NP_216790.1"
+FT                   /translation="MSIARSAQPIGWISCPPKGGSSCCRCGGGYTHIFCVSAWTGLVVD
+FT                   LQAEQVRSVVTERLRRRIGRGAPILAGTLAPGVGLAAQNREFRQFTGRSAPPSATIAFG
+FT                   E"
+FT   gene            complement(join(2546839..2547087))
+FT                   /gene="mazE8"
+FT                   /locus_tag="Rv2274A"
+FT                   /label=mazE8
+FT                   /db_xref="GeneID:14515891"
+FT   CDS             complement(join(2546839..2547087))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="mazE8"
+FT                   /locus_tag="Rv2274A"
+FT                   /product="antitoxin MazE8"
+FT                   /label=mazE8
+FT                   /note="part of toxin-antitoxin (TA) operon with Rv2274c"
+FT                   /db_xref="GeneID:14515891"
+FT                   /protein_id="YP_007410963.1"
+FT                   /translation="MAEPETLPGRWLPECACLAETVSWEQSRLWSRLLCRPHFRHALPG
+FT                   LTGGSASRPSARSARLVRQPRMTLFSLDHRDGVDARC"
+FT   gene            join(2546883..2547752)
+FT                   /locus_tag="Rv2275"
+FT                   /label=Rv2275
+FT                   /db_xref="GeneID:888355"
+FT   CDS             join(2546883..2547752)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv2275"
+FT                   /product="cyclo(L-tyrosyl-L-tyrosyl) synthase"
+FT                   /label=Rv2275
+FT                   /note="Rv2275, (MTCY339.35c)"
+FT                   /db_xref="GeneID:888355"
+FT                   /experiment="DESCRIPTION:Protein purification and 
+FT                   characterization[PMID:20852636]"
+FT                   /protein_id="NP_216791.1"
+FT                   /translation="MSYVAAEPGVLISPTDDLQSPRSAPAAHDENADGITGGTRDDSAP
+FT                   NSRFQLGRRIPEATAQEGFLVRPFTQQCQIIHTEGDHAVIGVSPGNSYFSRQRLRDLGL
+FT                   WGLTNFDRVDFVYTDVHVAESYEALGDSAIEARRKAVKNIRGVRAKITTTVNELDPAGA
+FT                   RLCVRPMSEFQSNEAYRELHADLLTRLKDDEDLRAVCQDLVRRFLSTKVGPRQGATATQ
+FT                   EQVCMDYICAEAPLFLDTPAILGVPSSLNCYHQSLPLAEMLYARGSGLRASRNQGHAIV
+FT                   TPDGSPAE"
+FT   gene            join(2547749..2548939)
+FT                   /gene="cyp121"
+FT                   /locus_tag="Rv2276"
+FT                   /label=cyp121
+FT                   /db_xref="GeneID:888373"
+FT   CDS             join(2547749..2548939)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="cyp121"
+FT                   /locus_tag="Rv2276"
+FT                   /product="cytochrome P450 Cyp121"
+FT                   /label=cyp121
+FT                   /note="mycocyclosin synthase; catalyzes the formation of 
+FT                   mycocyclosin from cyclotyrosine"
+FT                   /db_xref="GeneID:888373"
+FT                   /inference="protein motif:same species:PS00086"
+FT                   /experiment="DESCRIPTION:Protein purification and 
+FT                   characterization[PMID:19416919]"
+FT                   /experiment="EXISTENCE:Protein
+FT                   crystalography[PMID:11914502]"
+FT                   /protein_id="NP_216792.1"
+FT                   /translation="MTATVLLEVPFSARGDRIPDAVAELRTREPIRKVRTITGAEAWLV
+FT                   SSYALCTQVLEDRRFSMKETAAAGAPRLNALTVPPEVVNNMGNIADAGLRKAVMKAITP
+FT                   KAPGLEQFLRDTANSLLDNLITEGAPADLRNDFADPLATALHCKVLGIPQEDGPKLFRS
+FT                   LSIAFMSSADPIPAAKINWDRDIEYMAGILENPNITTGLMGELSRLRKDPAYSHVSDEL
+FT                   FATIGVTFFGAGVISTGSFLTTALISLIQRPQLRNLLHEKPELIPAGVEELLRINLSFA
+FT                   DGLPRLATADIQVGDVLVRKGELVLVLLEGANFDPEHFPNPGSIELDRPNPTSHLAFGR
+FT                   GQHFCPGSALGRRHAQIGIEALLKKMPGVDLAVPIDQLVWRTRFQRRIPERLPVLW"
+FT   repeat_region   join(2551369..2551371)
+FT                   /label=3 bp direct repeat, ccg, flanking IS6110
+FT                   /note="3 bp direct repeat, ccg, flanking IS6110"
+FT   repeat_region   join(3120213..3120248)
+FT                   /note="36 bp direct repeat, 36 out of 36 bp identical to 
+FT                   sequence GTCGTCAGACCCAAAACCCCGAGAGGGGACGGAAAC. This region 
+FT                   is a possible MT-complex-specific genomic island (See Becq 
+FT                   et al., 2007)."
+FT   repeat_region   join(3120433..3120468)
+FT                   /note="36 bp direct repeat, 36 out of 36 bp identical to 
+FT                   sequence GTCGTCAGACCCAAAACCCCGAGAGGGGACGGAAAC. This region 
+FT                   is a possible MT-complex-specific genomic island (See Becq 
+FT                   et al., 2007)."
+FT   repeat_region   join(3120504..3120523)
+FT                   /note="20 bp partial direct repeat,
+FT                   CCCCGAGAGGGGACGGAAAC,of sequence 
+FT                   GTCGTCAGACCCAAAACCCCGAGAGGGGACGGAAAC. This region is a 
+FT                   possible MT-complex-specific genomic island (See Becq et 
+FT                   al., 2007)."
+FT   gene            complement(join(3378711..3379001))
+FT                   /gene="esxR"
+FT                   /gene_synonym="ES6_9; TB10.3"
+FT                   /locus_tag="Rv3019c"
+FT                   /label=esxR
+FT                   /db_xref="GeneID:888926"
+FT   CDS             complement(join(3378711..3379001))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="esxR"
+FT                   /gene_synonym="ES6_9; TB10.3"
+FT                   /locus_tag="Rv3019c"
+FT                   /product="ESAT-6 like protein EsxR"
+FT                   /label=esxR
+FT                   /note="TB10.3 (ESAT-6 like protein 9)"
+FT                   /db_xref="GeneID:888926"
+FT                   /protein_id="NP_217535.1"
+FT                   /translation="MSQIMYNYPAMMAHAGDMAGYAGTLQSLGADIASEQAVLSSAWQG
+FT                   DTGITYQGWQTQWNQALEDLVRAYQSMSGTHESNTMAMLARDGAEAAKWGG"
+FT   gene            complement(join(3379036..3379329))
+FT                   /gene="esxS"
+FT                   /gene_synonym="PE28"
+FT                   /locus_tag="Rv3020c"
+FT                   /label=esxS
+FT                   /db_xref="GeneID:888946"
+FT   CDS             complement(join(3379036..3379329))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="esxS"
+FT                   /gene_synonym="PE28"
+FT                   /locus_tag="Rv3020c"
+FT                   /product="ESAT-6 like protein EsxS"
+FT                   /label=esxS
+FT                   /note="Member of the Mycobacterium tuberculosis PE family,
+FT                   PGRS subfamily of ala-, gly-rich proteins. A core 
+FT                   mycobacterial gene; conserved in mycobacterial strains (See
+FT                   Marmiesse et al., 2004)."
+FT                   /db_xref="GeneID:888946"
+FT                   /protein_id="YP_177919.1"
+FT                   /translation="MSLLDAHIPQLIASHTAFAAKAGLMRHTIGQAEQQAMSAQAFHQG
+FT                   ESAAAFQGAHARFVAAAAKVNTLLDIAQANLGEAAGTYVAADAAAASSYTGF"
+FT   gene            complement(join(3709715..3710248))
+FT                   /gene="moaC3"
+FT                   /locus_tag="Rv3324c"
+FT                   /label=moaC3
+FT                   /db_xref="GeneID:887981"
+FT   CDS             complement(join(3709715..3710248))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="moaC3"
+FT                   /locus_tag="Rv3324c"
+FT                   /product="cyclic pyranopterin monophosphate synthase
+FT                   accessory protein"
+FT                   /label=moaC3
+FT                   /note="molybdenum cofactor biosynthesis protein MoaC3"
+FT                   /db_xref="GeneID:887981"
+FT                   /protein_id="NP_217841.3"
+FT                   /translation="MNDHDGVLTHLDEQGAARMVDVSAKAVTLRRARASGAVLMKPSTL
+FT                   DMICHGTAAKGDVIATARIAGIMAAKRTGELIPLCHPLGIEAVTVTLEPQGADRLSIAA
+FT                   TVTTVARTGVEMEALTAVTVTALTVYDMCKAVDRAMTITDIRLDEKSGGRSGHYRRHDA
+FT                   DVKPSDGGSTEDGC"
+FT   gene            complement(join(3710245..3710379))
+FT                   /locus_tag="Rv3324A"
+FT                   /label=Rv3324A
+FT                   /db_xref="GeneID:3205081"
+FT                   /pseudogene="unknown"
+FT   misc_feature    complement(join(3710245..3710379))
+FT                   /locus_tag="Rv3324A"
+FT                   /note="Probable pseudogene moaB3,fragment of 
+FT                   pterin-4-alpha-carbinolamine dehydratase,equivalent to 
+FT                   C-terminus of MT3426|Q8VJ32 pterin-4-alpha-carbinolamine 
+FT                   dehydratase from Mycobacterium tuberculosis strain CDC1551"
+FT                   /pseudogene="unknown"
+FT   mobile_element  3710382..3711736
+FT                   /mobile_element_type="insertion sequence:IS6110-14"
+FT                   /label=insertion sequence:IS6110-14
+FT                   /note="IS6110-14, len: 1355 nt. Insertion sequence
+FT                   IS6110."
+FT   gene            join(3943812..3944963)
+FT                   /gene="PE_PGRS56"
+FT                   /locus_tag="Rv3512"
+FT                   /label=PE_PGRS56
+FT                   /db_xref="GeneID:888306"
+FT   CDS             join(3943812..3944963)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="PE_PGRS56"
+FT                   /locus_tag="Rv3512"
+FT                   /product="PE-PGRS family protein PE_PGRS56"
+FT                   /label=PE_PGRS56
+FT                   /note="Member of the Mycobacterium tuberculosis PE family,
+FT                   PGRS subfamily of ala-, gly-rich proteins"
+FT                   /db_xref="GeneID:888306"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="YP_177981.2"
+FT                   /translation="MGGNGGAGTGSGNGGNGGSGGNGGNAGMGGNSGTGSGDGGAGGNG
+FT                   GAAGTGGTGGDGGLTGTGGTGGSGGTGGDGGNGGNGADNTANMTAQAGGDGGNGGDGGF
+FT                   GGGAGAGGGGLTAGANGTGGQGGAGGDGGNGAIGGHGPLTDDPGGNGGTGGNGGTGGTG
+FT                   GAGIGSLGGGTGGDGGNGGNGGTGGEGGEVGGAGGTGGAAGNGGDGGTGGTGGGDGGAG
+FT                   GTGGTGGTGGLGDPRVGGSGGDGGTGGSGGAAGNGGNGGNAGAGGNGNGGTGGAGGIGG
+FT                   TGGNGGDAEPGVPPGAGGAGGAGTTGGKGGTGGNGSGTGSGGTGGDGGTGGGGGNGGTG
+FT                   WNGGKGDTGSGGGAGDGGKAPAGGTGGAGGDGGAGGKGGSGGV"
+FT   gene            complement(join(3945092..3945748))
+FT                   /gene="fadD18"
+FT                   /locus_tag="Rv3513c"
+FT                   /label=fadD18
+FT                   /db_xref="GeneID:888277"
+FT   CDS             complement(join(3945092..3945748))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="fadD18"
+FT                   /locus_tag="Rv3513c"
+FT                   /product="fatty-acid--CoA ligase FadD18"
+FT                   /label=fadD18
+FT                   /db_xref="GeneID:888277"
+FT                   /protein_id="NP_218030.1"
+FT                   /translation="MAASLSENLSCHSSNMCRLSGNAATNLERPGEEPPGDRCTRRQAV
+FT                   RPARTLAKKGNIPVGYYKDEKKTAETFRTINGVRYAIPGDYAQVEEDGTVTMLGRGSVS
+FT                   INSGGEKVYPEEVEAALKGHPDVFDALVVGVPDPRYGQQVAAVVQARPGCRPSLAELDS
+FT                   FVRSEIAGYKVPRSLWFVDEVKRSPAGKPDYRWAKEQTEARPADDVHAGHVTSGS"
+FT   repeat_region   complement(join(3945098..3945597))
+FT                   /gene="fadD18"
+FT                   /locus_tag="Rv3513c"
+FT                   /note="500 bp perfect direct repeat 2; second copy at 
+FT                   3950830..3951329."
+FT   gene            join(3945794..3950263)
+FT                   /gene="PE_PGRS57"
+FT                   /locus_tag="Rv3514"
+FT                   /label=PE_PGRS57
+FT                   /db_xref="GeneID:888294"
+FT   CDS             join(3945794..3950263)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="PE_PGRS57"
+FT                   /locus_tag="Rv3514"
+FT                   /product="PE-PGRS family protein PE_PGRS57"
+FT                   /label=PE_PGRS57
+FT                   /note="Member of the Mycobacterium tuberculosis PE family,
+FT                   PGRS subfamily of ala-, gly-rich proteins"
+FT                   /db_xref="GeneID:888294"
+FT                   /inference="protein motif:same species:PS00583"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="YP_177982.1"
+FT                   /translation="MSFVLIAPEFVTAAAGDLTNLGSSISAANASAASATTQVLAAGAD
+FT                   EVSARIAALFGGFGLEYQAISAQVAAYHQRFVQALSTGAGAYASAEAAAAEQIVLGVIN
+FT                   APTQALLGRPLIGDGANATTPGGAGGAGGLLFGNGGAGAAGAPGQAGGPGGPAGLWGNG
+FT                   GPGGAGGSGGGTGGAGGAGGWLFGVGGAGGVGGAGGGTGGAGGPGGLIWGGGGAGGVGG
+FT                   AGGGTGGAGGRAELLFGAGGAGGAGTDGGPGATGGTGGHGGVGGDGGWLAPGGAGGAGG
+FT                   QGGAGGAGSDGGALGGTGGTGGTGGAGGAGGRGALLLGAGGQGGLGGAGGQGGTGGAGG
+FT                   DGVLGGVGGTGGKGGVGGVAGLGGAGGAAGQLFSASGAAGNAGVGGAGGQGGDGGAGGA
+FT                   GADADQPGATGGTGFAGGAGGAGGAGGSSGAGGTNGSGGAGGQGGAGGAGGAGADNPTG
+FT                   IGGTGGDGGTGGAAGAGGAGGAAGTGGTGGMIGTTGNAGVGGAGGQGGDGGAGGAGADA
+FT                   DQPGATGGTGFAGGAGGAGGAGGSSGAGGTNGSGGAGGTGGQGGAGGAGGAGADNPTGI
+FT                   GGTGGDGGTGGAAGAGGAGGAAGTGGTGGMIGTTGNAGVGGAGGQGGDGGAGGAGADAD
+FT                   QPGATGGTGFAGGAGGAGKAGGSSSAGGTNSSGSAGGTGRQSGTGGAGGAGADNPTGIG
+FT                   GTGGDGGTGGAAGAGGAGGAAGTGGTGGMIGTTGNAGVGGAGGSSGAGGTNGSGGAGGT
+FT                   DGQGGAGGAGGAGADNPTGIGGTGGDGGTGGAAGAGGAGGAAGTGGTGGMIGTTGNAGV
+FT                   GGAGGQGGDGGAGGAGADADQPGATGGTGFAGGAGGAGGSGGSSCAGGTNGSGGAGGTC
+FT                   GQVVAGGAGISFSNGSNGGTGGTGGVGGTGGDGGNAGTGAGDPGKGGTGGTGGTGGSGG
+FT                   AGGSGGANFNGGTGGTGGTGGKGGLNTDGLSSATSGTGGTGGTGGKGGTGGAGDDSAGG
+FT                   TGGTGGAGGNAGAGGLANTGGTAGNAGIGGDGGQGGNGGQGDSGSGLGGQPGFAGGAGG
+FT                   KGGAGGSSGAGGTNGSGGAGGAGGQGGAGGAGISFSNGSNGGTGGTGGVGGTGGDGGNA
+FT                   GTGAGDPGKGGTGGTGGTGGSGGAGGSGGANFNGGTGGTGGTGGTGGKGGMGGIAGDGG
+FT                   PGGDGGNAGVGGKGGTNGNGGSGGTGGTGGAGGNAGAGGLANTGGTAGNAGIGGDGGQG
+FT                   GNGGQGDSGSGLGGQPGFAGGPGGKGGAGGNAGTGGTNGSGAGGAGGQGGAGGAGISFS
+FT                   NGSNGGTGGTGGVGGTGGDGGNAGTGAGDPGKGGTGGTGGTGGSGGAGGSGGANFNGGT
+FT                   GGTGGTGGTGGKGGMGGIAGDGGPGGDGGNAGVGGKGGTNGNGGSGGTGGTGGPGGSGG
+FT                   APTGSGTGGKGGAGGDGGDGADGGAATGVGDGGDGGNGGNGGNGGTGVGSPGGLGGAGG
+FT                   TGGLGGAGAGGGADGDDGDDGQPGNNGS"
