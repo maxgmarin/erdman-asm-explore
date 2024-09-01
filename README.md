@@ -17,16 +17,20 @@ Information about individual steps can be found in [`scripts/README.md`](scripts
 
 ### Curated Genome Annotation
 
-To produce a high quality genome annotation, RATT and Bakta were both used to 
+To produce a high quality genome annotation of the new Erdman genome assembly, the following general steps were performed:
 
-We have produced a custom annotation of the Erdman genome using liftover of the H37Rv genome and then additional manual curation + quality control.
+1) RATT was used for the initial liftover of H37Rv's annotated features.
+2) In cases where genomic regions were not able to be annotated via liftover using RATT, automated annotations produced by Bakta were used instead.
+3) This was followed by manual curation of the integrated plasmid sequence. 
+
 The manual curation and matching of gene annotations to the H37Rv equivalent was done to maximize the utility of using this new Erdman genome as a reference.
 
-RATT was used for the initial liftover of H37Rv's annotated features. In cases where genomic regions were not able to be annotated via liftover, automated annotations produced by Bakta were used. This was followed by manual curation of the integrated plasmid sequence. 
+All relevant code and analysis steps for can be found in ______.
+
 
 ### Automated Genome Annotation
 
-Additionally, Bakta (v1.5) was used to produce an automated genome annotation for the Erdman genome.
+Bakta (v1.5) was used to produce an automated genome annotation for the Erdman genome.
 The output of Bakta can be found in [`Results/Bakta_annotation`](Results/Bakta_annotation).
 
 ### Supplemental Files
