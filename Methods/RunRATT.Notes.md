@@ -1,9 +1,9 @@
 # Run RATT on the new Erdmann ASM
 
-### RATT Documentation: https://vcru.wisc.edu/simonlab/bioinformatics/programs/ratt/Documentation.html#How_to_call_the_program
+### Link to RATT Documentation: https://vcru.wisc.edu/simonlab/bioinformatics/programs/ratt/Documentation.html#How_to_call_the_program
 
 
-# Request resources & Activate Ratt v1.0.3 Conda ENV
+### Request resources & Activate Ratt v1.0.3 Conda ENV
 ```
 srun -p priority --pty -n 1 --mem 8G -t 0-04:59 /bin/bash
 
@@ -11,7 +11,7 @@ conda activate /home/mm774/conda3/envs/Ratt_v1_0_3
 ```
 
 
-## Define needed paths
+### Define needed paths
 ```
 RepoDir="/n/data1/hms/dbmi/farhat/mm774/Projects/ErdmanV2_Processing_V1/erdman-asm-explore"
 
