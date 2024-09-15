@@ -54,7 +54,7 @@ time ratt ${Rv_embl_dir} $i_ASM_FA -t 'Assembly.Repetitive' -p Erdmann.Assembly.
 
 ### C) Run RATT Anno (Rv based) - Assembly.Repetitive Setting ###
 
-````
+```
 i_Target_OutDir="$RepoDir/Results/RATT/RATT_SpeciesRepetitive"
 
 mkdir ${i_Target_OutDir}
@@ -63,9 +63,6 @@ cd ${i_Target_OutDir}
 # Run ratt command ( 256m38.672s)
 time ratt ${Rv_embl_dir} $i_ASM_FA -t 'Species.Repetitive' -p Erdmann.Species.Repetitive
 ```
-
-
-
 
 
 
