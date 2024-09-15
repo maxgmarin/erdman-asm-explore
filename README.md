@@ -9,9 +9,12 @@ This repository contains all code and analysis needed to reproduce the genome as
   - [Supplemental Files](#supplemental-files)
 - [License](#license)
 
+
 ## Assembly pipeline
 All tools (+ parameters) used for producing the final Erdman assembly can be found in the [`scripts/`](scripts/) directory.
 Information about individual steps can be found in [`scripts/README.md`](scripts/README.md).
+
+All sequencing data (Oxford Nanopore & Illumina) used for genome assembly is available under SRA Bioproject ID [`PRJNA1161419`](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1161419)
 
 ## Results
 
@@ -31,8 +34,6 @@ To produce a high quality genome annotation of the new Erdman genome assembly, t
 The manual curation and matching of gene annotations to the H37Rv equivalent was done to maximize the utility of using this new Erdman genome as a reference.
 
 All relevant code and analysis steps for can be found in ______.
-
-
 
 ### Supplemental Files
 🚧 Check back soon 🚧
