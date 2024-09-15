@@ -15,6 +15,11 @@ Information about individual steps can be found in [`scripts/README.md`](scripts
 
 ## Results
 
+### Automated Genome Annotation
+
+Bakta (v1.5) was used to produce an automated genome annotation for the Erdman genome.
+The output of Bakta can be found in [`Results/Bakta_annotation`](Results/Bakta_annotation).
+
 ### Curated Genome Annotation
 
 To produce a high quality genome annotation of the new Erdman genome assembly, the following general steps were performed:
@@ -28,10 +33,6 @@ The manual curation and matching of gene annotations to the H37Rv equivalent was
 All relevant code and analysis steps for can be found in ______.
 
 
-### Automated Genome Annotation
-
-Bakta (v1.5) was used to produce an automated genome annotation for the Erdman genome.
-The output of Bakta can be found in [`Results/Bakta_annotation`](Results/Bakta_annotation).
 
 ### Supplemental Files
 🚧 Check back soon 🚧
