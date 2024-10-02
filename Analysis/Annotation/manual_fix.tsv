@@ -57,3 +57,8 @@ PPE5			delete	overlaps with PPE6
 ERv3092c			delete	overlaps with ERv3093c
 ERv3427c			delete	overlaps with ERv3428c
 ERv3654c			delete	overlaps with ERv3655c
+tmp_Erdman_2578			delete	remove for manual curation of barcoding plasmid
+RNAI			delete	remove for manual curation of barcoding plasmid
+glyV			delete	remove for manual curation of barcoding plasmid
+aph(3')-Ia			add_note	; Matches expected "aph_KanR" Kanamycin resistance gene in barcoding plasmid
+tmp_Erdman_2579			add_note	; Matches L5 integrase of barcoding plasmid
