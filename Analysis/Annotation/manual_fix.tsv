@@ -53,3 +53,7 @@ ERv3655c	4099119	4099775	update_position;pseudo
 eccA2	4370087	4371466	update_position;add_note	;large truncation in the C-term
 mycP2	4373146	4374534	update_position;add_note;pseudo	;large truncation in the N-term
 PPE69	4379110	4380240	update_position	
+PPE5			delete	overlaps with PPE6
+ERv3092c			delete	overlaps with ERv3093c
+ERv3427c			delete	overlaps with ERv3428c
+ERv3654c			delete	overlaps with ERv3655c
