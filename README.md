@@ -33,7 +33,7 @@ To produce a high quality genome annotation of the new Erdman genome assembly, t
 
 The manual curation and matching of gene annotations to the H37Rv equivalent was done to maximize the utility of using this new Erdman genome as a reference.
 
-All relevant code and analysis steps for can be found in ______.
+All code related to merging and curation of genome annotation for can be found in [`scripts/README.md`](Analysis/Annotation/annotation.ipynb).
 
 ### Supplemental Files
 🚧 Check back soon 🚧
