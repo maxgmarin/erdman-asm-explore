@@ -1,0 +1,2066 @@
+ID   NC_000962; SV ; linear; genomic DNA; STD; UNA; 4411532 BP.
+XX
+AC   NC_000962;
+XX
+DT   14-DEC-2017 (Rel. 1, Created)
+DT   14-DEC-2017 (Rel. 1, Last updated, Version 1)
+XX
+DE   Mycobacterium tuberculosis H37Rv, complete genome.
+XX
+KW   RefSeq; complete genome.
+XX
+OS   Mycobacterium tuberculosis H37Rv
+OC   .
+XX
+RN   [1]
+RC   SGRef: number: 1; type: "Journal Article"; journalName: "Tuberculosis 
+RC   (Edinb)"; date: "2011"; volume: "91"; issue: "1"; pages: "1-7"
+RP   1 to 4411532
+RX   PUBMED; 20980199.
+RA   Lew JM, Kapopoulou A, Jones LM, Cole ST.
+RT   "TubercuList--10 years after"
+RL   Tuberculosis (Edinb) 91 (1), 1-7 (2011)
+RN   [2]
+RC   SGRef: number: 2; type: "Journal Article"; journalName: "Microbiology 
+RC   (Reading, Engl.) 148 (PT 10), 2967-2973 (2002)"
+RP   1 to 4411532
+RX   PUBMED; 12368430.
+RA   Camus JC, Pryor MJ, Medigue C, Cole ST.
+RT   "Re-annotation of the genome sequence of Mycobacterium tuberculosis H37Rv"
+RL   Microbiology (Reading, Engl.) 148 (PT 10), 2967-2973 (2002)
+RN   [3]
+RC   SGRef: number: 3; type: "Journal Article"; journalName: "Nature"; date: 
+RC   "1998"; volume: "393"; issue: "6685"; pages: "537-544"
+RP   1 to 4411532
+RX   PUBMED; 9634230.
+RA   Cole ST, Brosch R, Parkhill J, Garnier T, Churcher C, Harris D, Gordon SV, 
+RA   Eiglmeier K, Gas S, Barry CE III, Tekaia F, Badcock K, Basham D, Brown D, 
+RA   Chillingworth T, Connor R, Davies R, Devlin K, Feltwell T, Gentles S, 
+RA   Hamlin N, Holroyd S, Hornsby T, Jagels K, Krogh A, McLean J, Moule S, 
+RA   Murphy L, Oliver K, Osborne J, Quail MA, Rajandream MA, Rogers J, Rutter S,
+RA   Seeger K, Skelton J, Squares R, Squares S, Sulston JE, Taylor K, Whitehead 
+RA   S, Barrell BG.
+RT   "Deciphering the biology of Mycobacterium tuberculosis from the complete 
+RT   genome sequence"
+RL   Nature 393 (6685), 537-544 (1998)
+RN   [4]
+RC   SGRef: number: 4; type: "Journal Article"; journalName: "Submitted 
+RC   (06-FEB-2013) National Center for Biotechnology Information, NIH, Bethesda,
+RC   MD 20894, USA"
+RP   1 to 4411532
+RA   ;
+RT   "Direct Submission"
+RL   Submitted (06-FEB-2013) National Center for Biotechnology Information, NIH,
+RL   Bethesda, MD 20894, USA
+RN   [5]
+RC   SGRef: number: 5; type: "Journal Article"; journalName: "Submitted 
+RC   (18-DEC-2012) Lew J., Ecole Polytechnique Federale de Lausanne, CH-1015, 
+RC   Lausanne, Switzerland, and the Swiss Institute of Bioinformatics, CMU - Rue
+RC   Michel-Servet 1, 1211 Geneva 4, SWITZERLAND"
+RP   1 to 4411532
+RA   Lew JM.
+RT   "Direct Submission"
+RL   Submitted (18-DEC-2012) Lew J., Ecole Polytechnique Federale de Lausanne, 
+RL   CH-1015, Lausanne, Switzerland, and the Swiss Institute of Bioinformatics, 
+RL   CMU - Rue Michel-Servet 1, 1211 Geneva 4, SWITZERLAND
+RN   [6]
+RP   1 to 4411532
+RA   .
+RT   "Direct Submission"
+RL   Exported Dec 7, 2022 from SnapGene Viewer 6.0.2
+RL   https://www.snapgene.com
+XX
+CC   REVIEWED REFSEQ: This record has been curated by NCBI staff. The reference 
+CC   sequence is identical to AL123456.
+CC   On Feb 6, 2013 this sequence version replaced NC_000962.2.
+CC   RefSeq Category: Reference Genome
+CC               FGS: First Genome sequenced
+CC               MOD: Model Organism
+CC               TYS: Designated Type Strain
+CC               UPR: UniProt Genome
+CC   Note:
+CC   This annotation is from the TubercuList website, Release 26, Dec 2012 (URL:
+CC   http://tuberculist.epfl.ch) (email: tuberculist@epfl.ch).
+CC   COMPLETENESS: full length.
+FH   Key             Location/Qualifiers
+FH
+FT   repeat_region   join(890376..890379)
+FT                   /note="4 bp direct repeat: GAGG, at the left end of
+FT                   IS6110"
+FT   gene            join(1484279..1484959)
+FT                   /locus_tag="Rv1321"
+FT                   /label=Rv1321
+FT                   /db_xref="GeneID:886908"
+FT   CDS             join(1484279..1484959)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1321"
+FT                   /product="endonuclease NucS"
+FT                   /label=Rv1321
+FT                   /db_xref="GeneID:886908"
+FT                   /protein_id="NP_215837.1"
+FT                   /translation="MSRVRLVIAQCTVDYIGRLTAHLPSARRLLLFKADGSVSVHADDR
+FT                   AYKPLNWMSPPCWLTEESGGQAPVWVVENKAGEQLRITIEGIEHDSSHELGVDPGLVKD
+FT                   GVEAHLQALLAEHIQLLGEGYTLVRREYMTAIGPVDLLCSDERGGSVAVEIKRRGEIDG
+FT                   VEQLTRYLELLNRDSVLAPVKGVFAAQQIKPQARILATDRGIRCLTLDYDTMRGMDSGE
+FT                   YRLF"
+FT   gene            join(1484982..1485278)
+FT                   /locus_tag="Rv1322"
+FT                   /label=Rv1322
+FT                   /db_xref="GeneID:886927"
+FT   CDS             join(1484982..1485278)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1322"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv1322
+FT                   /db_xref="GeneID:886927"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215838.1"
+FT                   /translation="MARRRKPLHRQRPEPPSWALRRVEAGPDGHEYEVRPVAAARAVKT
+FT                   YRCPGCDHEIRSGTAHVVVWPTDLPQAGVDDRRHWHTPCWANRATRGPTRKWT"
+FT   gene            complement(join(1485313..1485771))
+FT                   /locus_tag="Rv1322A"
+FT                   /label=Rv1322A
+FT                   /db_xref="GeneID:3205097"
+FT   CDS             complement(join(1485313..1485771))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1322A"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv1322A
+FT                   /db_xref="GeneID:3205097"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="YP_177643.1"
+FT                   /translation="MMTTDQVHARHMLATSLVTGLDHVGIAVADLDVAIEWYHDHLGMI
+FT                   LVHEEINDDQGIREALLAVPGSAAQIQLMAPLDESSVIAKFLDKRGPGIQQLACRVSDL
+FT                   DAMCRRLRSQGVRLVYETARRGTANSRINFIHPKDAGGVLIELVEPAP"
+FT   gene            join(1485862..1487031)
+FT                   /gene="fadA4"
+FT                   /locus_tag="Rv1323"
+FT                   /label=fadA4
+FT                   /db_xref="GeneID:886904"
+FT   CDS             join(1485862..1487031)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="fadA4"
+FT                   /locus_tag="Rv1323"
+FT                   /product="acetyl-CoA acetyltransferase"
+FT                   /label=fadA4
+FT                   /note="acetoacetyl-CoA thiolase"
+FT                   /db_xref="GeneID:886904"
+FT                   /inference="protein motif:same species:PS00098"
+FT                   /inference="protein motif:same species:PS00099"
+FT                   /inference="protein motif:same species:PS00737"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215839.1"
+FT                   /translation="MIVAGARTPIGKLMGSLKDFSASELGAIAIKGALEKANVPASLVE
+FT                   YVIMGQVLTAGAGQMPARQAAVAAGIGWDVPALTINKMCLSGIDAIALADQLIRAREFD
+FT                   VVVAGGQESMTKAPHLLMNSRSGYKYGDVTVLDHMAYDGLHDVFTDQPMGALTEQRNDV
+FT                   DMFTRSEQDEYAAASHQKAAAAWKDGVFADEVIPVNIPQRTGDPLQFTEDEGIRANTTA
+FT                   AALAGLKPAFRGDGTITAGSASQISDGAAAVVVMNQEKAQELGLTWLAEIGAHGVVAGP
+FT                   DSTLQSQPANAINKALDREGISVDQLDVVEINEAFAAVALASIRELGLNPQIVNVNGGA
+FT                   IAVGHPLGMSGTRITLHAALQLARRGSGVGVAALCGAGGQGDALILRAG"
+FT   gene            join(1487161..1488075)
+FT                   /locus_tag="Rv1324"
+FT                   /label=Rv1324
+FT                   /db_xref="GeneID:886897"
+FT   CDS             join(1487161..1488075)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1324"
+FT                   /product="thioredoxin"
+FT                   /label=Rv1324
+FT                   /note="A core mycobacterial gene; conserved in
+FT                   mycobacterial strains (See Marmiesse et al., 2004 
+FT                   PMID:14766927)."
+FT                   /db_xref="GeneID:886897"
+FT                   /inference="protein motif:same species:PS00339"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215840.1"
+FT                   /translation="MTRPRPPLGPAMAGAVDLSGIKQRAQQNAAASTDADRALSTPSGV
+FT                   TEITEANFEDEVIVRSDEVPVVVLLWSPRSEVCVDLLDTLSGLAAAAKGKWSLASVNVD
+FT                   VAPRVAQIFGVQAVPTVVALAAGQPISSFQGLQPADQLSRWVDSLLSATAGKLKGAASS
+FT                   EESTEVDPAVAQARQQLEDGDFVAARKSYQAILDANPGSVEAKAAIRQIEFLIRATAQR
+FT                   PDAVSVADSLSDDIDAAFAAADVQVLNQDVSAAFERLIALVRRTSGEERTRVRTRLIEL
+FT                   FELFDPADPEVVAGRRNLANALY"
+FT   gene            complement(join(1488154..1489965))
+FT                   /gene="PE_PGRS24"
+FT                   /locus_tag="Rv1325c"
+FT                   /label=PE_PGRS24
+FT                   /db_xref="GeneID:886899"
+FT   CDS             complement(join(1488154..1489965))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="PE_PGRS24"
+FT                   /locus_tag="Rv1325c"
+FT                   /product="PE-PGRS family protein PE_PGRS24"
+FT                   /label=PE_PGRS24
+FT                   /note="Member of the Mycobacterium tuberculosis PE family,
+FT                   PGRS subfamily of ala-, gly-rich proteins"
+FT                   /db_xref="GeneID:886899"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="YP_177799.1"
+FT                   /translation="MSFVIAAPETLVRAASDLANIGSTLGAANAAALGPTTELLAAGAD
+FT                   EVSAAIASLFAAHGQAYQAVSAQMSAFHAQFVQTFTAGAGAYASAEAAAAAPLEGLLNI
+FT                   VNTPTQLLLGRPLIGNGANGAPGTGQAGGAGGLLYGNGGAGGSGAPGQAGGPGGAAGLF
+FT                   GNGGAGGAGGDGPGNGAAGGAGGAGGLLFGSGGAGGPGGVGNTGTGGLGGDGGAAGLFG
+FT                   AGGIGGAGGPGFNGGAGGAGGRSGLFEVLAAGGAGGTGGLSVNGGTGGTGGTGGGGGLF
+FT                   SNGGAGGAGGFGVSGSAGGNGGTGGDGGIFTGNGGTGGTGGTGTGNQLVGGEGGAGGAG
+FT                   GNAGILFGAGGIGGTGGTGLGAPDPGGTGGKGGVGGIGGAGALFGPGGAGGTGGFGASS
+FT                   ADQMAGGIGGSGGSGGAAKLIGDGGAGGTGGDSVRGAAGSGGTGGTGGLIGDGGAGGAG
+FT                   GTGIEFGSVGGAGGAGGNAAGLSGAGGAGGAGGFGETAGDGGAGGNAGLLNGDGGAGGA
+FT                   GGLGIAGDGGNGGKGGKAGMVGNGGDGGAGGASVVANGGVGGSGGNATLIGNGGNGGNG
+FT                   GVGSAPGKGGAGGTAGLLGLNGSPGLS"
+FT   gene            complement(join(1490117..1492312))
+FT                   /gene="glgB"
+FT                   /locus_tag="Rv1326c"
+FT                   /label=glgB
+FT                   /db_xref="GeneID:886893"
+FT   CDS             complement(join(1490117..1492312))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="glgB"
+FT                   /locus_tag="Rv1326c"
+FT                   /product="1,4-alpha-glucan branching protein"
+FT                   /label=glgB
+FT                   /db_xref="GeneID:886893"
+FT                   /experiment="DESCRIPTION:Protein purification and 
+FT                   characterization[PMID:17005418]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215842.1"
+FT                   /translation="MSRSEKLTGEHLAPEPAEMARLVAGTHHNPHGILGAHEYDDHTVI
+FT                   RAFRPHAVEVVALVGKDRFSLQHLDSGLFAVALPFVDLIDYRLQVTYEGCEPHTVADAY
+FT                   RFLPTLGEVDLHLFAEGRHERLWEVLGAHPRSFTTADGVVSGVSFAVWAPNAKGVSLIG
+FT                   EFNGWNGHEAPMRVLGPSGVWELFWPDFPCDGLYKFRVHGADGVVTDRADPFAFGTEVP
+FT                   PQTASRVTSSDYTWGDDDWMAGRALRNPVNEAMSTYEVHLGSWRPGLSYRQLARELTDY
+FT                   IVDQGFTHVELLPVAEHPFAGSWGYQVTSYYAPTSRFGTPDDFRALVDALHQAGIGVIV
+FT                   DWVPAHFPKDAWALGRFDGTPLYEHSDPKRGEQLDWGTYVFDFGRPEVRNFLVANALYW
+FT                   LQEFHIDGLRVDAVASMLYLDYSRPEGGWTPNVHGGRENLEAVQFLQEMNATAHKVAPG
+FT                   IVTIAEESTPWSGVTRPTNIGGLGFSMKWNMGWMHDTLDYVSRDPVYRSYHHHEMTFSM
+FT                   LYAFSENYVLPLSHDEVVHGKGTLWGRMPGNNHVKAAGLRSLLAYQWAHPGKQLLFMGQ
+FT                   EFGQRAEWSEQRGLDWFQLDENGFSNGIQRLVRDINDIYRCHPALWSLDTTPEGYSWID
+FT                   ANDSANNVLSFMRYGSDGSVLACVFNFAGAEHRDYRLGLPRAGRWREVLNTDATIYHGS
+FT                   GIGNLGGVDATDDPWHGRPASAVLVLPPTSALWLTPA"
+FT   gene            complement(join(1492320..1494425))
+FT                   /gene="glgE"
+FT                   /locus_tag="Rv1327c"
+FT                   /label=glgE
+FT                   /db_xref="GeneID:886895"
+FT   CDS             complement(join(1492320..1494425))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="glgE"
+FT                   /locus_tag="Rv1327c"
+FT                   /product="alpha-1,4-glucan:maltose-1-phosphate
+FT                   maltosyltransferase"
+FT                   /label=glgE
+FT                   /db_xref="GeneID:886895"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215843.2"
+FT                   /translation="MSGRAIGTETEWWVPGRVEIDDVAPVVSCGVYPAKAVVGEVVPVS
+FT                   AAVWREGHEAVAATLVVRYLGVRYPHLTDRPRARVLPTPSEPQQRVKPLLIPMTSGQEP
+FT                   FVFHGQFTPDRVGLWTFRVDGWGDPIHTWRHGLIAKLDAGQGETELSNDLLVGAVLLER
+FT                   AATGVPRGLRDPLLAAAAALRTPGDPVTRTALALTPEIEELLADYPLRDLVTRGEQFGV
+FT                   WVDRPLARFGAWYEMFPRSTGGWDDDGNPVHGTFATAAAELPRIAGMGFDVVYLPPIHP
+FT                   IGKVHRKGRNNSPTAAPTDVGSPWAIGSDEGGHDTVHPSLGTIDDFDDFVSAARDLGME
+FT                   VALDLALQCAPDHPWAREHRQWFTELPDGTIAYAENPPKKYQDIYPLNFDNDPEGLYDE
+FT                   VLRVVQHWVNHGVKFFRVDNPHTKPPNFWAWLIAQVKTVDPDVLFLSEAFTPPARQYGL
+FT                   AKLGFTQSYSYFTWRTTKWELTEFGNQIAELADYRRPNLFVNTPDILHAVLQHNGPGMF
+FT                   AIRAVLAATMSPAWGMYCGYELFEHRAVREGSEEYLDSEKYELRPRDFASALDQGRSLQ
+FT                   PFITRLNIIRRLHPAFQQLRTIHFHHVDNDALLAYSKFDPATGDCVLVVVTLNAFGPEE
+FT                   ATLWLDMAALGMEDYDRFWVRDEITGEEYQWGQANYIRIDPARAVAHIINMPAVPYESR
+FT                   NTLLRRR"
+FT   gene            join(1494564..1497155)
+FT                   /gene="glgP"
+FT                   /locus_tag="Rv1328"
+FT                   /label=glgP
+FT                   /db_xref="GeneID:886886"
+FT   CDS             join(1494564..1497155)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="glgP"
+FT                   /locus_tag="Rv1328"
+FT                   /product="glycogen phosphorylase"
+FT                   /label=glgP
+FT                   /db_xref="GeneID:886886"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215844.1"
+FT                   /translation="MKALRRFTVRAHLPERLAALDQLSTNLRWSWDKPTQDLFAAIDPA
+FT                   LWEQCGHDPVALLGAVNPARLDELALDAEFLGALDELAADLNDYLSRPLWYQEQQDAGV
+FT                   AAQALPTGIAYFSLEFGVAEVLPNYSGGLGILAGDHLKSASDLGVPLIAVGLYYRSGYF
+FT                   RQSLTADGWQHETYPSLDPQGLPLRLLTDANGDPVLVEVALGDNAVLRARIWVAQVGRV
+FT                   PLLLLDSDIPENEHDLRNVTDRLYGGDQEHRIKQEILAGIGGVRAIRAYTAVEKLTPPE
+FT                   VFHMNEGHAGFLGIERIRELVTDAGLDFDTALTVVRSSTVFTTHTPVPAGIDRFPLEMV
+FT                   QRYVNDQRGDGRSRLLPGLPADRIVALGAEDDPAKFNMAHMGLRLAQRANGVSLLHGRV
+FT                   SRAMFNELWAGFDPDEVPIGSVTNGVHAPTWAAPQWLQLGRELAGSDSLREPVVWQRLH
+FT                   QVDPAHLWWIRSQLRSMLVEDVRARLRQSWLERGATDAELGWIATAFDPNVLTVGFARR
+FT                   VPTYKRLTLMLRDPDRLEQLLLDEQRPIQLIVAGKSHPADDGGKALIQQVVRFADRPQV
+FT                   RHRIAFLPNYDMSMARLLYWGCDVWLNNPLRPLEACGTSGMKSALNGGLNLSIRDGWWD
+FT                   EWYDGENGWEIPSADGVADENRRDDLEAGALYDLLAQAVAPKFYERDERGVPQRWVEMV
+FT                   RHTLQTLGPKVLASRMVRDYVEHYYAPAAQSFRRTAGAQFDAARELADYRRRAEEAWPK
+FT                   IEIADVDSTGLPDTPLLGSQLTLTATVRLAGLRPNDVTVQGVLGRVDAGDVLMDPVTVE
+FT                   MAHTGTGDGGYEIFSTTTPLPLAGPVGYTVRVLPRHPMLAASNELGLVTLA"
+FT   gene            complement(join(1497195..1499189))
+FT                   /gene="dinG"
+FT                   /locus_tag="Rv1329c"
+FT                   /label=dinG
+FT                   /db_xref="GeneID:886889"
+FT   CDS             complement(join(1497195..1499189))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="dinG"
+FT                   /locus_tag="Rv1329c"
+FT                   /product="ATP-dependent helicase DinG"
+FT                   /label=dinG
+FT                   /db_xref="GeneID:886889"
+FT                   /inference="protein motif:same species:PS00017"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:15525680]"
+FT                   /protein_id="NP_215845.1"
+FT                   /translation="MSESVSMSVPELLAIAVAALGGTRRRGQQEMAAAVAHAFETGEHL
+FT                   VVQAGTGTGKSLAYLVPAIIRALCDDAPVVVSTATIALQRQLVDRDLPQLVDSLTNALP
+FT                   RRPKFALLKGRRNYLCLNKIHNSVTASDHDDERPQEELFDPVAVTALGRDVQRLTAWAS
+FT                   TTVSGDRDDLKPGVGDRSWSQVSVSARECLGVARCPFGSECFSERARGAAGLADVVVTN
+FT                   HALLAIDAVAESAVLPEHRLLVVDEAHELADRVTSVAAAELTSATLGMAARRITRLVDP
+FT                   KVTQRLQAASATFSSAIHDARPGRIDCLDDEMATYLSALRDAASAARSAIDTGSDTTTA
+FT                   SVRAEAGAVLTEISDTASRILASFAPAIPDRSDVVWLEHEDNHESARAVLRVAPLSVAE
+FT                   LLATQVFARATTVLTSATLTIGGSFDAMATAWGLTADTPWRGLDVGSPFQHAKSGILYV
+FT                   AAHLPPPGRDGSGSAEQLTEIAELITAAGGRTLGLFSSMRAARAATEAMRERLSTPVLC
+FT                   QGDDSTSTLVEKFTADAATSLFGTLSLWQGVDVPGPSLSLVLIDRIPFPRPDDPLLSAR
+FT                   QRAVAARGGNGFMTVAASHAALLLAQGSGRLLRRVTDRGVVAVLDSRMATARYGEFLRA
+FT                   SLPPFWQTTNATQVRAALRRLARADAKAH"
+FT   gene            complement(join(1499213..1500559))
+FT                   /gene="pncB1"
+FT                   /locus_tag="Rv1330c"
+FT                   /label=pncB1
+FT                   /db_xref="GeneID:886884"
+FT   CDS             complement(join(1499213..1500559))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="pncB1"
+FT                   /locus_tag="Rv1330c"
+FT                   /product="nicotinic acid phosphoribosyltransferase PncB1"
+FT                   /label=pncB1
+FT                   /db_xref="GeneID:886884"
+FT                   /experiment="DESCRIPTION:Gene expression, mutation 
+FT                   analysis[PMID:18490451]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215846.2"
+FT                   /translation="MGPPPAARRREGEPDNQDPAGLLTDKYELTMLAAALRDGSANRPT
+FT                   TFEVFARRLPTGRRYGVVAGTGRLLEALPQFRFDADACELLAQFLDPATVRYLREFRFR
+FT                   GDIDGYAEGELYFPGSPVLSVRGSFAECVLLETLVLSIFNHDTAIASAAARMVSAAGGR
+FT                   PLIEMGSRRTHERAAVAAARAAYIAGFAASSNLAAQRRYGVPAHGTAAHAFTMLHAQHG
+FT                   GPTELAERAAFRAQVEALGPGTTLLVDTYDVTTGVANAVAAAGAELGAIRIDSGELGVL
+FT                   ARQAREQLDRLGATRTRIVVSGDLDEFSIAALRGEPVDSYGVGTSLVTGSGAPTANMVY
+FT                   KLVEVDGVPVQKRSSYKESPGGRKEALRRSRATGTITEELVHPAGRPPVIVEPHRVLTL
+FT                   PLVRAGQPVADTSLAAARQLVASGLRSLPGDGLKLAPGEPAIPTRTIPA"
+FT   gene            join(1500661..1500966)
+FT                   /locus_tag="Rv1331"
+FT                   /label=Rv1331
+FT                   /db_xref="GeneID:886891"
+FT   CDS             join(1500661..1500966)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1331"
+FT                   /product="ATP-dependent Clp protease adapter protein ClpS"
+FT                   /label=Rv1331
+FT                   /db_xref="GeneID:886891"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21030493]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215847.1"
+FT                   /translation="MAVVSAPAKPGTTWQRESAPVDVTDRAWVTIVWDDPVNLMSYVTY
+FT                   VFQKLFGYSEPHATKLMLQVHNEGKAVVSAGSRESMEVDVSKLHAAGLWATMQQDR"
+FT   gene            join(1500926..1501582)
+FT                   /locus_tag="Rv1332"
+FT                   /label=Rv1332
+FT                   /db_xref="GeneID:886901"
+FT   CDS             join(1500926..1501582)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1332"
+FT                   /product="transcriptional regulator"
+FT                   /label=Rv1332
+FT                   /db_xref="GeneID:886901"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215848.1"
+FT                   /translation="MPPVCGRRCSRTGEIRGYSGSIVRRWKRVETRDGPRFRSSLAPHE
+FT                   AALLKNLAGAMIGLLDDRDSSSPSDELEEITGIKTGHAQRPGDPTLRRLLPDFYRPDDL
+FT                   DDDDPTAVDGSESFNAALRSLHEPEIIDAKRVAAQQLLDTVPDNGGRLELTESDANAWI
+FT                   AAVNDLRLALGVMLEIGPRGPERLPGNHPLAAHFNVYQWLTVLQEYLVLVLMGSR"
+FT   gene            join(1501599..1502633)
+FT                   /locus_tag="Rv1333"
+FT                   /label=Rv1333
+FT                   /db_xref="GeneID:886882"
+FT   CDS             join(1501599..1502633)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1333"
+FT                   /product="hydrolase"
+FT                   /label=Rv1333
+FT                   /db_xref="GeneID:886882"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215849.1"
+FT                   /translation="MNSITDVGGIRVGHYQRLDPDASLGAGWACGVTVVLPPPGTVGAV
+FT                   DCRGGAPGTRETDLLDPANSVRFVDALLLAGGSAYGLAAADGVMRWLEEHRRGVAMDSG
+FT                   VVPIVPGAVIFDLPVGGWNCRPTADFGYSACAAAGVDVAVGTVGVGVGARAGALKGGVG
+FT                   TASATLQSGVTVGVLAVVNAAGNVVDPATGLPWMADLVGEFALRAPPAEQIAALAQLSS
+FT                   PLGAFNTPFNTTIGVIACDAALSPAACRRIAIAAHDGLARTIRPAHTPLDGDTVFALAT
+FT                   GAVAVPPEAGVPAALSPETQLVTAVGAAAADCLARAVLAGVLNAQPVAGIPTYRDMFPG
+FT                   AFGS"
+FT   gene            join(1502641..1503081)
+FT                   /gene="mec"
+FT                   /locus_tag="Rv1334"
+FT                   /label=mec
+FT                   /db_xref="GeneID:886875"
+FT   CDS             join(1502641..1503081)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="mec"
+FT                   /locus_tag="Rv1334"
+FT                   /product="[CysO]-cysteine peptidase"
+FT                   /label=mec
+FT                   /db_xref="GeneID:886875"
+FT                   /experiment="DESCRIPTION:Protein purification and 
+FT                   characterization[PMID:16104727]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215850.1"
+FT                   /translation="MLLRKGTVYVLVIRADLVNAMVAHARRDHPDEACGVLAGPEGSDR
+FT                   PERHIPMTNAERSPTFYRLDSGEQLKVWRAMEDADEVPVVIYHSHTATEAYPSRTDVKL
+FT                   ATEPDAHYVLVSTRDPHRHELRSYRIVDGAVTEEPVNVVEQY"
+FT   gene            join(1503103..1503384)
+FT                   /gene="cysO"
+FT                   /gene_synonym="cfp10A"
+FT                   /locus_tag="Rv1335"
+FT                   /label=cysO
+FT                   /db_xref="GeneID:886879"
+FT   CDS             join(1503103..1503384)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="cysO"
+FT                   /gene_synonym="cfp10A"
+FT                   /locus_tag="Rv1335"
+FT                   /product="sulfur carrier protein CysO"
+FT                   /label=cysO
+FT                   /db_xref="GeneID:886879"
+FT                   /experiment="DESCRIPTION:Gene expression, protein 
+FT                   characterization[PMID:16104727]"
+FT                   /experiment="DESCRIPTION:Gene expression, protein 
+FT                   characterization[PMID:18842002]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215851.1"
+FT                   /translation="MNVTVSIPTILRPHTGGQKSVSASGDTLGAVISDLEANYSGISER
+FT                   LMDPSSPGKLHRFVNIYVNDEDVRFSGGLATAIADGDSVTILPAVAGG"
+FT   gene            join(1503394..1504365)
+FT                   /gene="cysM"
+FT                   /locus_tag="Rv1336"
+FT                   /label=cysM
+FT                   /db_xref="GeneID:886867"
+FT   CDS             join(1503394..1504365)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="cysM"
+FT                   /locus_tag="Rv1336"
+FT                   /product="O-phosphoserine sulfhydrylase"
+FT                   /label=cysM
+FT                   /note="cysteine synthase B, (CSASE B) (O-phosphoserine 
+FT                   sulfhydrylase B) (O-phosphoserine (thiol)-lyase B)"
+FT                   /db_xref="GeneID:886867"
+FT                   /inference="protein motif:same species:PS00901"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="DESCRIPTION:Gene expression, protein 
+FT                   characterization[PMID:18842002]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215852.1"
+FT                   /translation="MTRYDSLLQALGNTPLVGLQRLSPRWDDGRDGPHVRLWAKLEDRN
+FT                   PTGSIKDRPAVRMIEQAEADGLLRPGATILEPTSGNTGISLAMAARLKGYRLICVMPEN
+FT                   TSVERRQLLELYGAQIIFSAAEGGSNTAVATAKELAATNPSWVMLYQYGNPANTDSHYC
+FT                   GTGPELLADLPEITHFVAGLGTTGTLMGTGRFLREHVANVKIVAAEPRYGEGVYALRNM
+FT                   DEGFVPELYDPEILTARYSVGAVDAVRRTRELVHTEGIFAGISTGAVLHAALGVGAGAL
+FT                   AAGERADIALVVADAGWKYLSTGAYAGSLDDAETALEGQLWA"
+FT   gene            join(1504356..1505078)
+FT                   /locus_tag="Rv1337"
+FT                   /label=Rv1337
+FT                   /db_xref="GeneID:886870"
+FT   CDS             join(1504356..1505078)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1337"
+FT                   /product="integral membrane protein"
+FT                   /label=Rv1337
+FT                   /db_xref="GeneID:886870"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215853.1"
+FT                   /translation="MGMTPRRKRRGGAVQITRPTGRPRTPTTQTTKRPRWVVGGTTILT
+FT                   FVALLYLVELIDQLSGSRLDVNGIRPLKTDGLWGVIFAPLLHANWHHLMANTIPLLVLG
+FT                   FLMTLAGLSRFVWATAIIWILGGLGTWLIGNVGSSCGPTDHIGASGLIFGWLAFLLVFG
+FT                   LFVRKGWDIVIGLVVLFVYGGILLGAMPVLGQCGGVSWQGHLSGAVAGVVAAYLLSAPE
+FT                   RKARALKRAGARSGHPKL"
+FT   gene            join(1505075..1505890)
+FT                   /gene="murI"
+FT                   /locus_tag="Rv1338"
+FT                   /label=murI
+FT                   /db_xref="GeneID:886866"
+FT   CDS             join(1505075..1505890)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="murI"
+FT                   /locus_tag="Rv1338"
+FT                   /product="glutamate racemase"
+FT                   /label=murI
+FT                   /db_xref="GeneID:886866"
+FT                   /inference="protein motif:same species:PS00924"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="NP_215854.1"
+FT                   /translation="MNSPLAPVGVFDSGVGGLTVARAIIDQLPDEDIVYVGDTGNGPYG
+FT                   PLTIPEIRAHALAIGDDLVGRGVKALVIACNSASSACLRDARERYQVPVVEVILPAVRR
+FT                   AVAATRNGRIGVIGTRATITSHAYQDAFAAARDTEITAVACPRFVDFVERGVTSGRQVL
+FT                   GLAQGYLEPLQRAEVDTLVLGCTHYPLLSGLIQLAMGENVTLVSSAEETAKEVVRVLTE
+FT                   IDLLRPHDAPPATRIFEATGDPEAFTKLAARFLGPVLGGVQPVHPSRIH"
+FT   gene            join(1505917..1506738)
+FT                   /locus_tag="Rv1339"
+FT                   /label=Rv1339
+FT                   /db_xref="GeneID:886972"
+FT   CDS             join(1505917..1506738)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1339"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv1339
+FT                   /db_xref="GeneID:886972"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215855.1"
+FT                   /translation="MRRCIPHRCIGHGTVVSVRITVLGCSGSVVGPDSPASGYLLRAPH
+FT                   TPPLVIDFGGGVLGALQRHADPASVHVLLSHLHADHCLDLPGLFVWRRYHPSRPSGKAL
+FT                   LYGPSDTWSRLGAASSPYGGEIDDCSDIFDVHHWADSEPVTLGALTIVPRLVAHPTESF
+FT                   GLRITDPSGASLAYSGDTGICDQLVELARGVDVFLCEASWTHSPKHPPDLHLSGTEAGM
+FT                   VAAQAGVRELLLTHIPPWTSREDVISEAKAEFDGPVHAVVCDETFEVRRAG"
+FT   gene            join(1506755..1507534)
+FT                   /gene="rphA"
+FT                   /locus_tag="Rv1340"
+FT                   /label=rphA
+FT                   /db_xref="GeneID:886864"
+FT   CDS             join(1506755..1507534)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="rphA"
+FT                   /locus_tag="Rv1340"
+FT                   /product="ribonuclease PH"
+FT                   /label=rphA
+FT                   /note="RNase PH (tRNA nucleotidyltransferase)"
+FT                   /db_xref="GeneID:886864"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215856.1"
+FT                   /translation="MSKREDGRLDHELRPVIITRGFTENPAGSVLIEFGHTKVLCTASV
+FT                   TEGVPRWRKATGLGWLTAEYAMLPSATHSRSDRESVRGRLSGRTQEISRLIGRSLRACI
+FT                   DLAALGENTIAIDCDVLQADGGTRTAAITGAYVALADAVTYLSAAGKLSDPRPLSCAIA
+FT                   AVSVGVVDGRIRVDLPYEEDSRAEVDMNVVATDTGTLVEIQGTGEGATFARSTLDKLLD
+FT                   MALGACDTLFAAQRDALALPYPGVLPQGPPPPKAFGT"
+FT   repeat_region   join(1507531..1507581)
+FT                   /note="51 bp Mycobacterial Interspersed Repetitive
+FT                   Unit,Class II"
+FT   gene            join(1507573..1508187)
+FT                   /locus_tag="Rv1341"
+FT                   /label=Rv1341
+FT                   /db_xref="GeneID:886861"
+FT   CDS             join(1507573..1508187)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1341"
+FT                   /product="non-canonical purine NTP pyrophosphatase"
+FT                   /label=Rv1341
+FT                   /db_xref="GeneID:886861"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215857.1"
+FT                   /translation="MALVTKLLVASRNRKKLAELRRVLDGAGLSGLTLLSLGDVSPLPE
+FT                   TPETGVTFEDNALAKARDAFSATGLASVADDSGLEVAALGGMPGVLSARWSGRYGDDAA
+FT                   NTALLLAQLCDVPDERRGAAFVSACALVSGSGEVVVRGEWPGTIAREPRGDGGFGYDPV
+FT                   FVPYGDDRTAAQLSPAEKDAVSHRGRALALLLPALRSLATG"
+FT   gene            complement(join(1508184..1508546))
+FT                   /locus_tag="Rv1342c"
+FT                   /label=Rv1342c
+FT                   /db_xref="GeneID:886862"
+FT   CDS             complement(join(1508184..1508546))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1342c"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv1342c
+FT                   /note="A core mycobacterial gene; conserved in
+FT                   mycobacterial strains (See Marmiesse et al., 2004 
+FT                   PMID:14766927)."
+FT                   /db_xref="GeneID:886862"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="YP_177800.1"
+FT                   /translation="MTAPETPAAQHAEPAIAVERIRTALLGYRIMAWTTGLWLIALCYE
+FT                   IVVRYVVKVDNPPTWIGVVHGWVYFTYLLLTLNLAVKVRWPLGKTAGVLLAGTIPLLGI
+FT                   VVEHFQTKEIKARFGL"
+FT   gene            complement(join(1508543..1508923))
+FT                   /gene="lprD"
+FT                   /locus_tag="Rv1343c"
+FT                   /label=lprD
+FT                   /db_xref="GeneID:886852"
+FT   CDS             complement(join(1508543..1508923))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="lprD"
+FT                   /locus_tag="Rv1343c"
+FT                   /product="lipoprotein LprD"
+FT                   /label=lprD
+FT                   /note="A core mycobacterial gene; conserved in
+FT                   mycobacterial strains (See Marmiesse et al., 2004 
+FT                   PMID:14766927)."
+FT                   /db_xref="GeneID:886852"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215859.1"
+FT                   /translation="MSTTRRRRPALIALVIIATCGCLALGWWQWTRFQSTSGTFQNLGY
+FT                   ALQWPLFAWFCVYAYRNFVRYEETPPQPPTGGAAAEIPAGLLPERPKPAQQPPDDPVLR
+FT                   EYNAYLAELAKDDARKQNRTTA"
+FT   gene            join(1508968..1509288)
+FT                   /gene="mbtL"
+FT                   /locus_tag="Rv1344"
+FT                   /label=mbtL
+FT                   /db_xref="GeneID:886848"
+FT   CDS             join(1508968..1509288)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="mbtL"
+FT                   /locus_tag="Rv1344"
+FT                   /product="acyl carrier protein MbtL"
+FT                   /label=mbtL
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886848"
+FT                   /protein_id="NP_215860.1"
+FT                   /translation="MWRYPLSTRLALPNTPGVASFAMTSSPSTVSTTLLSILRDDLNID
+FT                   LTRVTPDARLVDDVGLDSVAFAVGMVAIEERLGVALSEEELLTCDTVGELEAAIAAKYR
+FT                   DE"
+FT   gene            join(1509281..1510846)
+FT                   /gene="mbtM"
+FT                   /gene_synonym="fadD33"
+FT                   /locus_tag="Rv1345"
+FT                   /label=mbtM
+FT                   /db_xref="GeneID:886855"
+FT   CDS             join(1509281..1510846)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="mbtM"
+FT                   /gene_synonym="fadD33"
+FT                   /locus_tag="Rv1345"
+FT                   /product="long-chain-fatty-acid--ACP ligase MbtM"
+FT                   /label=mbtM
+FT                   /note="fatty acyl-AMP ligase MbtM"
+FT                   /db_xref="GeneID:886855"
+FT                   /protein_id="NP_215861.1"
+FT                   /translation="MSELAAVLTRSMQASAGDLMVLDRETSLWCRHPWPEVHGLAESVA
+FT                   AWLLDHDRPAAVGLVGEPTVELVAAIQGAWLAGAAVSILPGPVRGANDQRWADATLTRF
+FT                   LGIGVRTVLSQGSYLARLRSVDTAGVTIGDLSTAAHTNRSATPVASEGPAVLQGTAGST
+FT                   GAPRTAILSPGAVLSNLRGLNQRVGTDAATDVGCSWLPLYHDMGLAFVLSAALAGAPLW
+FT                   LAPTTAFTASPFRWLSWLSDSGATMTAAPNFAYNLIGKYARRVSEVDLGALRVTLNGGE
+FT                   PVDCDGLTRFAEAMAPFGFDAGAVLPSYGLAESTCAVTVPVPGIGLLADRVIDGSGAHK
+FT                   HAVLGNPIPGMEVRISCGDQAAGNASREIGEIEIRGASMMAGYLGQQPIDPDDWFATGD
+FT                   LGYLGAGGLVVCGRAKEVISIAGRNIFPTEVELVAAQVRGVREGAVVALGTGDRSTRPG
+FT                   LVVAAEFRGPDEANARAELIQRVASECGIVPSDVVFVSPGSLPRTSSGKLRRLAVRRSL
+FT                   EMAD"
+FT   gene            join(1510846..1512006)
+FT                   /gene="mbtN"
+FT                   /gene_synonym="fadE14"
+FT                   /locus_tag="Rv1346"
+FT                   /label=mbtN
+FT                   /db_xref="GeneID:886844"
+FT   CDS             join(1510846..1512006)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="mbtN"
+FT                   /gene_synonym="fadE14"
+FT                   /locus_tag="Rv1346"
+FT                   /product="acyl-[acyl-carrier-protein] dehydrogenase MbtN"
+FT                   /label=mbtN
+FT                   /db_xref="GeneID:886844"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="NP_215862.1"
+FT                   /translation="MTAGSDLDDFRGLLAKAFDERVVAWTAEAEAQERFPRQLIEHLGV
+FT                   CGVFDAKWATDARPDVGKLVELAFALGQLASAGIGVGVSLHDSAIAILRRFGKSDYLRD
+FT                   ICDQAIRGAAVLCIGASEESGGSDLQIVETEIRSRDGGFEVRGVKKFVSLSPIADHIMV
+FT                   VARSVDHDPTSRHGNVAVVAVPAAQVSVQTPYRKVGAGPLDTAAVCIDTWVPADALVAR
+FT                   AGTGLAAISWGLAHERMSIAGQIAASCQRAIGITLARMMSRRQFGQTLFEHQALRLRMA
+FT                   DLQARVDLLRYALHGIAEQGRLELRTAAAVKVTAARLGEEVISECMHIFGGAGYLVDET
+FT                   TLGKWWRDMKLARVGGGTDEVLWELVAAGMTPDHDGYAAVVGASKA"
+FT   gene            complement(join(1511973..1512605))
+FT                   /gene="mbtK"
+FT                   /locus_tag="Rv1347c"
+FT                   /label=mbtK
+FT                   /db_xref="GeneID:886846"
+FT   CDS             complement(join(1511973..1512605))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="mbtK"
+FT                   /locus_tag="Rv1347c"
+FT                   /product="lysine N-acetyltransferase MbtK"
+FT                   /label=mbtK
+FT                   /db_xref="GeneID:886846"
+FT                   /experiment="EXISTENCE:Protein
+FT                   crystalography[PMID:15695811]"
+FT                   /protein_id="NP_215863.1"
+FT                   /translation="MTKPTSAGQADDALVRLARERFDLPDQVRRLARPPVPSLEPPYGL
+FT                   RVAQLTDAEMLAEWMNRPHLAAAWEYDWPASRWRQHLNAQLEGTYSLPLIGSWHGTDGG
+FT                   YLELYWAAKDLISHYYDADPYDLGLHAAIADLSKVNRGFGPLLLPRIVASVFANEPRCR
+FT                   RIMFDPDHRNTATRRLCEWAGCKFLGEHDTTNRRMALYALEAPTTAA"
+FT   gene            join(1512728..1512811)
+FT                   /gene="leuW"
+FT                   /locus_tag="Rvnt19"
+FT                   /label=leuW
+FT                   /db_xref="GeneID:2700424"
+FT   tRNA            join(1512728..1512811)
+FT                   /gene="leuW"
+FT                   /locus_tag="Rvnt19"
+FT                   /product="tRNA-Leu"
+FT                   /label=leuW
+FT                   /note="leuW, tRNA-Leu, anticodon tag, length = 84"
+FT                   /note="/codon_recognized=CUA"
+FT                   /db_xref="GeneID:2700424"
+FT   gene            join(1513047..1515626)
+FT                   /gene="irtA"
+FT                   /locus_tag="Rv1348"
+FT                   /label=irtA
+FT                   /db_xref="GeneID:886853"
+FT   CDS             join(1513047..1515626)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="irtA"
+FT                   /locus_tag="Rv1348"
+FT                   /product="iron ABC transporter ATP-binding
+FT                   protein/permease IrtA"
+FT                   /label=irtA
+FT                   /db_xref="GeneID:886853"
+FT                   /inference="protein motif:same species:PS00017"
+FT                   /inference="protein motif:same species:PS00211"
+FT                   /experiment="DESCRIPTION:Gene expression, mutation
+FT                   analysis, protein purification and 
+FT                   characterization[PMID:19948799]"
+FT                   /experiment="DESCRIPTION:Gene expression, mutation 
+FT                   analysis[PMID:16385031]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:14532352]"
+FT                   /protein_id="NP_215864.1"
+FT                   /translation="MARGLQGVMLRSFGARDHTATVIETISIAPHFVRVRMVSPTLFQD
+FT                   AEAEPAAWLRFWFPDPNGSNTEFQRAYTISEADPAAGRFAVDVVLHDPAGPASSWARTV
+FT                   KPGATIAVMSLMGSSRFDVPEEQPAGYLLIGDSASIPGMNGIIETVPNDVPIEMYLEQH
+FT                   DDNDTLIPLAKHPRLRVRWVMRRDEKSLAEAIENRDWSDWYAWATPEAAALKCVRVRLR
+FT                   DEFGFPKSEIHAQAYWNAGRAMGTHRATEPAATEPEVGAAPQPESAVPAPARGSWRAQA
+FT                   ASRLLAPLKLPLVLSGVLAALVTLAQLAPFVLLVELSRLLVSGAGAHRLFTVGFAAVGL
+FT                   LGTGALLAAALTLWLHVIDARFARALRLRLLSKLSRLPLGWFTSRGSGSIKKLVTDDTL
+FT                   ALHYLVTHAVPDAVAAVVAPVGVLVYLFVVDWRVALVLFGPVLVYLTITSSLTIQSGPR
+FT                   IVQAQRWAEKMNGEAGSYLEGQPVIRVFGAASSSFRRRLDEYIGFLVAWQRPLAGKKTL
+FT                   MDLATRPATFLWLIAATGTLLVATHRMDPVNLLPFMFLGTTFGARLLGIAYGLGGLRTG
+FT                   LLAARHLQVTLDETELAVREHPREPLDGEAPATVVFDHVTFGYRPGVPVIQDVSLTLRP
+FT                   GTVTALVGPSGSGKSTLATLLARFHDVERGAIRVGGQDIRSLAADELYTRVGFVLQEAQ
+FT                   LVHGTAAENIALAVPDAPAEQVQVAAREAQIHDRVLRLPDGYDTVLGANSGLSGGERQR
+FT                   LTIARAILGDTPVLILDEATAFADPESEYLVQQALNRLTRDRTVLVIAHRLHTITRADQ
+FT                   IVVLDHGRIVERGTHEELLAAGGRYCRLWDTGQGSRVAVAAAQDGTR"
+FT   gene            join(1515623..1517362)
+FT                   /gene="irtB"
+FT                   /locus_tag="Rv1349"
+FT                   /label=irtB
+FT                   /db_xref="GeneID:886834"
+FT   CDS             join(1515623..1517362)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="irtB"
+FT                   /locus_tag="Rv1349"
+FT                   /product="iron ABC transporter ATP-binding
+FT                   protein/permease IrtB"
+FT                   /label=irtB
+FT                   /db_xref="GeneID:886834"
+FT                   /inference="protein motif:same species:PS00017"
+FT                   /inference="protein motif:same species:PS00211"
+FT                   /experiment="DESCRIPTION:Gene expression, mutation
+FT                   analysis, protein purification and 
+FT                   characterization[PMID:19948799]"
+FT                   /experiment="DESCRIPTION:Gene expression, mutation 
+FT                   analysis[PMID:16385031]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="NP_215865.1"
+FT                   /translation="MIRTWIALVPNDHRARLIGFALLAFCSVVARAVGTVLLVPLMAAL
+FT                   FGEAPQRAWLWLGWLSAATVAGWVLDAVTARIGIELGFAVLNHTQHDVADRLPVVRLDW
+FT                   FTAENTATARQAIAATGPELVGLVVNLVTPLTSAILLPAVIALALLPISWQLGVAALAG
+FT                   VPLLLGALWASAAFARRADTAADKANTALTERIIEFARTQQALRAARRVEPARSLVGNA
+FT                   LASQHTATMRLLGMQIPGQLLFSIASQLALIVLAGTTAALTITGTLTVPEAIALIVVMV
+FT                   RYLEPFTAVSELAPALESTRATLGRIGSVLTAPVMVAGSGTWRDGAVVPRIEFDDVAFG
+FT                   YDGGSGPVLDGVSFCLQPGTTTAIVGPSGCGKSTILALIAGLHQPTRGRVLIDGTDVAT
+FT                   LDARAQQAVCSVVFQHPYLFHGTIRDNVFAADPGASDDQFAQAVRLARVDELIARLPDG
+FT                   ANTIVGEAGSALSGGERQRVSIARALLKAAPVLLVDEATSALDAENEAAVVDALAADPR
+FT                   SRTRVIVAHRLASIRHADRVLFVDDGRVVEDGSISELLTAGGRFSQFWRQQHEAAEWQI
+FT                   LAE"
+FT   gene            join(1517491..1518234)
+FT                   /gene="fabG2"
+FT                   /locus_tag="Rv1350"
+FT                   /label=fabG2
+FT                   /db_xref="GeneID:886837"
+FT   CDS             join(1517491..1518234)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="fabG2"
+FT                   /locus_tag="Rv1350"
+FT                   /product="3-oxoacyl-ACP reductase FabG"
+FT                   /label=fabG2
+FT                   /note="3-ketoacyl-acyl carrier protein reductase"
+FT                   /db_xref="GeneID:886837"
+FT                   /inference="protein motif:same species:PS00061"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215866.1"
+FT                   /translation="MASLLNARTAVITGGAQGLGLAIGQRFVAEGARVVLGDVNLEATE
+FT                   VAAKRLGGDDVALAVRCDVTQADDVDILIRTAVERFGGLDVMVNNAGITRDATMRTMTE
+FT                   EQFDQVIAVHLKGTWNGTRLAAAIMRERKRGAIVNMSSVSGKVGMVGQTNYSAAKAGIV
+FT                   GMTKAAAKELAHLGIRVNAIAPGLIRSAMTEAMPQRIWDQKLAEVPMGRAGEPSEVASV
+FT                   AVFLASDLSSYMTGTVLDVTGGRFI"
+FT   gene            join(1518231..1518560)
+FT                   /locus_tag="Rv1351"
+FT                   /label=Rv1351
+FT                   /db_xref="GeneID:886831"
+FT   CDS             join(1518231..1518560)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1351"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv1351
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886831"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:14595687]"
+FT                   /protein_id="NP_215867.1"
+FT                   /translation="MTPRSLPRYGNSSRRKSFPMHRPSNVATATRKKSSIGWVLLACSV
+FT                   AGCKGIDTTEFILGRAGAFELAVRAAQHRHRYLTMVNVGRAPPRRCRTVCMAATDTPRN
+FT                   IRLNG"
+FT   gene            join(1518763..1519134)
+FT                   /locus_tag="Rv1352"
+FT                   /label=Rv1352
+FT                   /db_xref="GeneID:886833"
+FT   CDS             join(1518763..1519134)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1352"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv1352
+FT                   /db_xref="GeneID:886833"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_215868.1"
+FT                   /translation="MARTLALRASAGLVAGMAMAAITLAPGARAETGEQFPGDGVFLVG
+FT                   TDIAPGTYRTEGPSNPLILVFGRVSELSTCSWSTHSAPEVSNENIVDTNTSMGPMSVVI
+FT                   PPTVAAFQTHNCKLWMRIS"
+FT   gene            complement(join(1519200..1519985))
+FT                   /locus_tag="Rv1353c"
+FT                   /label=Rv1353c
+FT                   /db_xref="GeneID:886827"
+FT   CDS             complement(join(1519200..1519985))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1353c"
+FT                   /product="HTH-type transcriptional regulator"
+FT                   /label=Rv1353c
+FT                   /db_xref="GeneID:886827"
+FT                   /protein_id="NP_215869.1"
+FT                   /translation="MQTTPGKRQRRQRGSINPEDIISGAFELAQQVSIDNLSMPLLGKH
+FT                   LGVGVTSIYWYFRKKDDLLNAMTDRALSKYVFATPYIEAGDWRETLRNHARSMRKTFAD
+FT                   NPVLCDLILIRAALSPKTARLGAQEMEKAIANLVTAGLSLEDAFDIYSAVSVHVRGSVV
+FT                   LDRLSRKSQSAGSGPSAIEHPVAIDPATTPLLAHATGRGHRIGAPDETNFEYGLECILD
+FT                   HAGRLIEQSSKAAGEVAVRRPTATADAPTPGARAKAVAR"
+FT   gene            complement(join(1520005..1521876))
+FT                   /locus_tag="Rv1354c"
+FT                   /label=Rv1354c
+FT                   /db_xref="GeneID:886829"
+FT   CDS             complement(join(1520005..1521876))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1354c"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv1354c
+FT                   /db_xref="GeneID:886829"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="NP_215870.1"
+FT                   /translation="MCNDTATPQLEELVTTVANQLMTVDAATSAEVSQRVLAYLVEQLG
+FT                   VDVSFLRHNDRDRRATRLVAEWPPRLNIPDPDPLRLIYFADADPVFALCEHAKEPLVFR
+FT                   PEPATEDYQRLIEEARGVPVTSAAAVPLVSGEITTGLLGFIKFGDRKWHEAELNALMTI
+FT                   ATLFAQVQARVAAEARLRYLADHDDLTGLHNRRALLQHLDQRLAPGQPGPVAALFLDLD
+FT                   RLKAINDYLGHAAGDQFIHVFAQRIGDALVGESLIARLGGDEFVLIPASPMSADAAQPL
+FT                   AERLRDQLKDHVAIGGEVLTRTVSIGVASGTPGQHTPSDLLRRADQAALAAKHAGGDSV
+FT                   AIFTADMSVSGELRNDIELHLRRGIESDALRLVYLPEVDLRTGDIVGTEALVRWQHPTR
+FT                   GLLAPGCFIPVAESINLAGELDRWVLRRACNEFSEWQSAGLGHDALLRINVSAGQLVTG
+FT                   GFVDFVADTIGQHGLDASSVCLEITENVVVQDLHTARATLARLKEVGVHIAIDDFGTGY
+FT                   SAISLLQTLPIDTLKIDKTFVRQLGTNTSDLVIVRGIMTLAEGFQLDVVAEGVETEAAA
+FT                   RILLDQRCYRAQGFLFSRPVPGEAMRHMLSARRLPPTCIPATDPALS"
+FT   gene            complement(join(1521885..1524032))
+FT                   /gene="moeY"
+FT                   /locus_tag="Rv1355c"
+FT                   /label=moeY
+FT                   /db_xref="GeneID:886839"
+FT   CDS             complement(join(1521885..1524032))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="moeY"
+FT                   /locus_tag="Rv1355c"
+FT                   /product="molybdopterin biosynthesis protein MoeY"
+FT                   /label=moeY
+FT                   /db_xref="GeneID:886839"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:15525680]"
+FT                   /protein_id="NP_215871.1"
+FT                   /translation="MTIPHEGGSTGILVLRDDDHDDVLVLDRLRSDPSIEFVDRFAEQL
+FT                   AGVRRLLPQPDPDLLEEAKRWAYYPWRRMVVAILGLRGFRAVRLDRNRHLITAEEQRAL
+FT                   HALRVGVVGLSAGHAIAYTLAAEGACGTLRLADFDKIELSNLNRVPVGVFDIGLNKAMI
+FT                   AARRIAELDPYLAVDLVTSGLSPESVDEFLDGLDVVIEECDSLDIKVILRQAACARGVP
+FT                   VLMATSDRGLVDVERYDVEPGRPIFHGLLGDIDADKLCGLTTKDKVPHVLNILDCQELS
+FT                   ARCAASMIEVDQTLWGWPQLAGDIWVGAATVAEAVRRIGLGEPLESGRVRVDVSAALDR
+FT                   LDQPPMPSRGNGWLLESVPPTAPAEPQPTSEIVAQAAIRAPSGGNVQPWHVVAKQHSLT
+FT                   IRLAPEHTSAMDIAFRGSAVAVGAAMFNARVAAAAHRVLGSVEFDESQPDSPLQATMHF
+FT                   GRGDDPSLAALYRPMLLRTTNRHHGMPGHVHPATVELLTNTAAAEGARLQLLLSRNEID
+FT                   RAATILAAADRIRYLTPRLHEEMMSELRWPGDPSLDAGIDVRSLELDSGELRVLDILRR
+FT                   SDVVARLAQWDCGTALEDNTNERVSASSALAIVYVDGATLTDFARGGSAMQAVWIVAQQ
+FT                   HGLAVQPMSPIFLYARGRHDLDQASPHFAAQLHRLQLDFRELVKPGKEGHEVLIFRLFH
+FT                   APPPSVCSRRRVRHAIPEPHR"
+FT   gene            join(1779314..1779724)
+FT                   /locus_tag="Rv1573"
+FT                   /label=Rv1573
+FT                   /db_xref="GeneID:886337"
+FT   CDS             join(1779314..1779724)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1573"
+FT                   /product="phage protein"
+FT                   /label=Rv1573
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886337"
+FT                   /protein_id="NP_216089.1"
+FT                   /translation="MTTTPARFNHLVTVTDLETGDRAVCDRDQVAETIRAWFPDAPLEV
+FT                   REALVRLQAALNRHEHTGELEAFLRISVEHADAAGGDECGPAILAGRSGPEQAAINRQL
+FT                   GLAGDDEPDGDDTPPWSRMIGLGGGSPAEDER"
+FT   gene            join(1779930..1780241)
+FT                   /locus_tag="Rv1574"
+FT                   /label=Rv1574
+FT                   /db_xref="GeneID:886331"
+FT   CDS             join(1779930..1780241)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1574"
+FT                   /product="phage protein"
+FT                   /label=Rv1574
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886331"
+FT                   /protein_id="NP_216090.1"
+FT                   /translation="MGYKPESERHSTKTDTAIGAALGISAGTYRRLKRIDNATHSDDKE
+FT                   IRRFAEKQMAPLVAGSPSWNARKPRSANARVVASVHRSPMPALVPWNQSRLSATLTRR"
+FT   repeat_region   join(1779959..1780047)
+FT                   /note="89 bp direct repeat 2, first copy at
+FT                   1780485..1780573, 
+FT                   GGGTTGCGTTGTCGATTCGTTTGAGCCGCCGGTAGGTGCCGGCGGAGATGCCGAGGGC 
+FT                   TG CGCCGATAGCAGTGTCTGTTTTCGTCGAA. This region is a possible
+FT                   MT-complex-specific genomic island (See Becq et al.,2007)."
+FT   repeat_region   join(1780485..1780573)
+FT                   /note="89 bp direct repeat 1, second copy at
+FT                   1779959..1780047, 
+FT                   GGGTTGCGTTGTCGATTCGTTTGAGCCGCCGGTAGGTGCCGGCGGAGATGCCGAGGGC 
+FT                   TG CGCCGATAGCAGTGTCTGTTTTCGTCGAA. Many repeats, both direct
+FT                   and inverted, in this region. This region is a possible 
+FT                   MT-complex-specific genomic island (See Becq et al.,2007)."
+FT   gene            complement(join(1783309..1783623))
+FT                   /locus_tag="Rv1579c"
+FT                   /label=Rv1579c
+FT                   /db_xref="GeneID:886369"
+FT   CDS             complement(join(1783309..1783623))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1579c"
+FT                   /product="phage protein"
+FT                   /label=Rv1579c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886369"
+FT                   /protein_id="NP_216095.1"
+FT                   /translation="MTPINRPLTNDERQLMHELAVQVVCSQTGCSPDAAVEALESFAKD
+FT                   GTLILRGDTENAYLEAGGNVLVHADRDWLAFHASYPGNDPLRDARPIEQDDDQGAGSPS
+FT                   "
+FT   gene            complement(join(1783620..1783892))
+FT                   /locus_tag="Rv1580c"
+FT                   /label=Rv1580c
+FT                   /db_xref="GeneID:886313"
+FT   CDS             complement(join(1783620..1783892))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1580c"
+FT                   /product="phage protein"
+FT                   /label=Rv1580c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886313"
+FT                   /protein_id="NP_216096.1"
+FT                   /translation="MAETPDHAELRRRIADMAFNADVGMATCKRCGDAVPYIILPNLQT
+FT                   GEPVMGVADNKWKRANCPVDVGKPCPFLIAEGVADSTDDTIEVDQ"
+FT   gene            complement(join(1783906..1784301))
+FT                   /locus_tag="Rv1581c"
+FT                   /label=Rv1581c
+FT                   /db_xref="GeneID:886318"
+FT   CDS             complement(join(1783906..1784301))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1581c"
+FT                   /product="phage protein"
+FT                   /label=Rv1581c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886318"
+FT                   /protein_id="NP_216097.1"
+FT                   /translation="MTAVAITPASGGRHSVRFAYDSAIVSLIKSTIPAYARSWSAHTRC
+FT                   WFIDADWTPLLAAELRYHGHTVTGPADPAQQQCTDWAKALFRAVGPQRTPAVYRALSKV
+FT                   LHPDAPTGCPILQQQLNAARTALTNPA"
+FT   gene            complement(join(1784497..1785912))
+FT                   /locus_tag="Rv1582c"
+FT                   /label=Rv1582c
+FT                   /db_xref="GeneID:886311"
+FT   CDS             complement(join(1784497..1785912))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1582c"
+FT                   /product="phage protein"
+FT                   /label=Rv1582c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886311"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="NP_216098.1"
+FT                   /translation="MADIPYGTDYPDAPWIDRDGHVLIDDGGKPTQVHRGQARIAYRLA
+FT                   ERYQDKLLHVAGIGWHSWDGRRWAADDRGEAKRAVLAELRQALSDSLNDKELRADVRKC
+FT                   ESASGVAGVLDLAAALVPFAATVADLDSDPHLLNVANGTLDLHTLKLRPHAPADRITKI
+FT                   CRGAYQSDTESPLWQAFLTRVLPDEGVRGFVQRLAGVGLLGTVREHVLAILIGVGANGK
+FT                   SVFDKAIRYALGDYACTAEPDLFMHRENAHPTGEMDLRGVRWVAVSESEKDRRLAESTI
+FT                   KRLTGGDTIRARKMRQDFVEFTPSHTPLLITNHLPRVPGDDTAIWRRIRVVPFEVVIPA
+FT                   DEQDRELDARLQLEADSILSWAVAGWSDYQRIGLSQPDAVLAATSNYREDSDTIKRFID
+FT                   DECVTSSPVLKATTTHLFEAWQRWRVQEGVPEISRKAFGQSLDTHGYPVTDKARDGRWR
+FT                   AGIAVRGADDFDD"
+FT   gene            complement(join(1785912..1786310))
+FT                   /locus_tag="Rv1583c"
+FT                   /label=Rv1583c
+FT                   /db_xref="GeneID:886315"
+FT   CDS             complement(join(1785912..1786310))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1583c"
+FT                   /product="phage protein"
+FT                   /label=Rv1583c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886315"
+FT                   /protein_id="NP_216099.1"
+FT                   /translation="MTAGAGGSPPTRRCPATEDRAPATVATPSSADPTASRAVSWWSVH
+FT                   EHVAPVLDAAGSWPMAGTPAWRQLDDADPRKWAAICDAARHWALRVETCQEAMAQASRD
+FT                   VSAAADWPGIAREIVRRRGVYIPRAGVA"
+FT   gene            complement(join(1786307..1786528))
+FT                   /locus_tag="Rv1584c"
+FT                   /label=Rv1584c
+FT                   /db_xref="GeneID:886307"
+FT   CDS             complement(join(1786307..1786528))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1584c"
+FT                   /product="phage protein"
+FT                   /label=Rv1584c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886307"
+FT                   /protein_id="NP_216100.1"
+FT                   /translation="MSTIYHHRGRVAALSRSRASDDPEFIAAKTDLVAANIADYLIRTL
+FT                   AAAPPLTDEQRTRLAELLRPVRRSGGAR"
+FT   gene            complement(join(1786584..1787099))
+FT                   /locus_tag="Rv1585c"
+FT                   /label=Rv1585c
+FT                   /db_xref="GeneID:886309"
+FT   CDS             complement(join(1786584..1787099))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1585c"
+FT                   /product="phage protein"
+FT                   /label=Rv1585c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886309"
+FT                   /protein_id="NP_216101.1"
+FT                   /translation="MSRHHNIVIVCDHGRKGDGRIEHERCDLVAPIIWVDETQGWLPQA
+FT                   PAVATLLDDDNQPRAVIGLPPNESRLRPEMRRDGWVRLHWEFACLRYGAAGVRTCEQRP
+FT                   VRVRNGDLQTLCENVPRLLTGLAGNPDYAPGFAVQSDAVVVAMWLWRTLCESDTPNKLR
+FT                   ATPTRGSC"
+FT   gene            complement(join(1787096..1788505))
+FT                   /locus_tag="Rv1586c"
+FT                   /label=Rv1586c
+FT                   /db_xref="GeneID:886305"
+FT   CDS             complement(join(1787096..1788505))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv1586c"
+FT                   /product="phage integrase"
+FT                   /label=Rv1586c
+FT                   /note="This region is a possible MT-complex-specific
+FT                   genomic island (See Becq et al., 2007 PMID:17545187)."
+FT                   /db_xref="GeneID:886305"
+FT                   /protein_id="NP_216102.1"
+FT                   /translation="MRYTTPVRAAVYLRISEDRSGEQLGVARQREDCLKLCGQRKWVPV
+FT                   EYLDNDVSASTGKRRPAYEQMLADITAGKIAAVVAWDLDRLHRRPIELEAFMSLADEKR
+FT                   LALATVAGDVDLATPQGRLVARLKGSVAAHETEHKKARQRRAARQKAERGHPNWSKAFG
+FT                   YLPGPNGPEPDPRTAPLVKQAYADILAGASLGDVCRQWNDAGAFTITGRPWTTTTLSKF
+FT                   LRKPRNAGLRAYKGARYGPVDRDAIVGKAQWSPLVDEATFWAAQAVLDAPGRAPGRKSV
+FT                   RRHLLTGLAGCGKCGNHLAGSYRTDGQVVYVCKACHGVAILADNIEPILYHIVAERLAM
+FT                   PDAVDLLRREIHDAAEAETIRLELETLYGELDRLAVERAEGLLTARQVKISTDIVNAKI
+FT                   TKLQARQQDQERLRVFDGIPLGTPQVAGMIAELSPDRFRAVLDVLAEVVVQPVGKSGRI
+FT                   FNPERVQVNWR"
+FT   gene            join(2545332..2545631)
+FT                   /locus_tag="Rv2271"
+FT                   /label=Rv2271
+FT                   /db_xref="GeneID:887223"
+FT   CDS             join(2545332..2545631)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv2271"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv2271
+FT                   /db_xref="GeneID:887223"
+FT                   /protein_id="NP_216787.1"
+FT                   /translation="MTTPPDKARRRFLRDAYKNAERVARTALLTIDQDQLEQLLDYVDE
+FT                   RLGEQPCDHTARHAQRWAQSHRIEWETLAEGLQEFGGYCDCEIVMNVEPEAIFG"
+FT   gene            join(2545737..2546105)
+FT                   /locus_tag="Rv2272"
+FT                   /label=Rv2272
+FT                   /db_xref="GeneID:887459"
+FT   CDS             join(2545737..2546105)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv2272"
+FT                   /product="transmembrane protein"
+FT                   /label=Rv2272
+FT                   /db_xref="GeneID:887459"
+FT                   /protein_id="NP_216788.1"
+FT                   /translation="MADDSNDTATDVEPDYRFTLANERTFLAWQRTALGLLAAAVALVQ
+FT                   LVPELTIPGARQVLGVVLAILAILTSGMGLLRWQQADRAMRRHLPLPRHPTPGYLAVGL
+FT                   CVVGVVALALVVAKAITG"
+FT   gene            join(2546102..2546431)
+FT                   /locus_tag="Rv2273"
+FT                   /label=Rv2273
+FT                   /db_xref="GeneID:888440"
+FT   CDS             join(2546102..2546431)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv2273"
+FT                   /product="transmembrane protein"
+FT                   /label=Rv2273
+FT                   /db_xref="GeneID:888440"
+FT                   /protein_id="NP_216789.1"
+FT                   /translation="MNRHSTAASDRGLQAERTTLAWTRTAFALLVNGVLLTLKDTQGAD
+FT                   GPAGLIPAGLAGAAASCCYVIALQRQRALSHRPLPARITPRGQVHILATAVLVLMVVTA
+FT                   FAQLL"
+FT   gene            complement(join(2546488..2546805))
+FT                   /gene="mazF8"
+FT                   /locus_tag="Rv2274c"
+FT                   /label=mazF8
+FT                   /db_xref="GeneID:888067"
+FT   CDS             complement(join(2546488..2546805))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="mazF8"
+FT                   /locus_tag="Rv2274c"
+FT                   /product="toxin MazF8"
+FT                   /label=mazF8
+FT                   /note="part of toxin-antitoxin (TA) operon with Rv2274c"
+FT                   /db_xref="GeneID:888067"
+FT                   /protein_id="NP_216790.1"
+FT                   /translation="MSIARSAQPIGWISCPPKGGSSCCRCGGGYTHIFCVSAWTGLVVD
+FT                   LQAEQVRSVVTERLRRRIGRGAPILAGTLAPGVGLAAQNREFRQFTGRSAPPSATIAFG
+FT                   E"
+FT   gene            complement(join(2546839..2547087))
+FT                   /gene="mazE8"
+FT                   /locus_tag="Rv2274A"
+FT                   /label=mazE8
+FT                   /db_xref="GeneID:14515891"
+FT   CDS             complement(join(2546839..2547087))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="mazE8"
+FT                   /locus_tag="Rv2274A"
+FT                   /product="antitoxin MazE8"
+FT                   /label=mazE8
+FT                   /note="part of toxin-antitoxin (TA) operon with Rv2274c"
+FT                   /db_xref="GeneID:14515891"
+FT                   /protein_id="YP_007410963.1"
+FT                   /translation="MAEPETLPGRWLPECACLAETVSWEQSRLWSRLLCRPHFRHALPG
+FT                   LTGGSASRPSARSARLVRQPRMTLFSLDHRDGVDARC"
+FT   gene            join(2546883..2547752)
+FT                   /locus_tag="Rv2275"
+FT                   /label=Rv2275
+FT                   /db_xref="GeneID:888355"
+FT   CDS             join(2546883..2547752)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv2275"
+FT                   /product="cyclo(L-tyrosyl-L-tyrosyl) synthase"
+FT                   /label=Rv2275
+FT                   /note="Rv2275, (MTCY339.35c)"
+FT                   /db_xref="GeneID:888355"
+FT                   /experiment="DESCRIPTION:Protein purification and 
+FT                   characterization[PMID:20852636]"
+FT                   /protein_id="NP_216791.1"
+FT                   /translation="MSYVAAEPGVLISPTDDLQSPRSAPAAHDENADGITGGTRDDSAP
+FT                   NSRFQLGRRIPEATAQEGFLVRPFTQQCQIIHTEGDHAVIGVSPGNSYFSRQRLRDLGL
+FT                   WGLTNFDRVDFVYTDVHVAESYEALGDSAIEARRKAVKNIRGVRAKITTTVNELDPAGA
+FT                   RLCVRPMSEFQSNEAYRELHADLLTRLKDDEDLRAVCQDLVRRFLSTKVGPRQGATATQ
+FT                   EQVCMDYICAEAPLFLDTPAILGVPSSLNCYHQSLPLAEMLYARGSGLRASRNQGHAIV
+FT                   TPDGSPAE"
+FT   gene            join(2547749..2548939)
+FT                   /gene="cyp121"
+FT                   /locus_tag="Rv2276"
+FT                   /label=cyp121
+FT                   /db_xref="GeneID:888373"
+FT   CDS             join(2547749..2548939)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="cyp121"
+FT                   /locus_tag="Rv2276"
+FT                   /product="cytochrome P450 Cyp121"
+FT                   /label=cyp121
+FT                   /note="mycocyclosin synthase; catalyzes the formation of 
+FT                   mycocyclosin from cyclotyrosine"
+FT                   /db_xref="GeneID:888373"
+FT                   /inference="protein motif:same species:PS00086"
+FT                   /experiment="DESCRIPTION:Protein purification and 
+FT                   characterization[PMID:19416919]"
+FT                   /experiment="EXISTENCE:Protein
+FT                   crystalography[PMID:11914502]"
+FT                   /protein_id="NP_216792.1"
+FT                   /translation="MTATVLLEVPFSARGDRIPDAVAELRTREPIRKVRTITGAEAWLV
+FT                   SSYALCTQVLEDRRFSMKETAAAGAPRLNALTVPPEVVNNMGNIADAGLRKAVMKAITP
+FT                   KAPGLEQFLRDTANSLLDNLITEGAPADLRNDFADPLATALHCKVLGIPQEDGPKLFRS
+FT                   LSIAFMSSADPIPAAKINWDRDIEYMAGILENPNITTGLMGELSRLRKDPAYSHVSDEL
+FT                   FATIGVTFFGAGVISTGSFLTTALISLIQRPQLRNLLHEKPELIPAGVEELLRINLSFA
+FT                   DGLPRLATADIQVGDVLVRKGELVLVLLEGANFDPEHFPNPGSIELDRPNPTSHLAFGR
+FT                   GQHFCPGSALGRRHAQIGIEALLKKMPGVDLAVPIDQLVWRTRFQRRIPERLPVLW"
+FT   repeat_region   join(2551369..2551371)
+FT                   /label=3 bp direct repeat, ccg, flanking IS6110
+FT                   /note="3 bp direct repeat, ccg, flanking IS6110"
+FT   gene            complement(join(3378711..3379001))
+FT                   /gene="esxR"
+FT                   /gene_synonym="ES6_9; TB10.3"
+FT                   /locus_tag="Rv3019c"
+FT                   /label=esxR
+FT                   /db_xref="GeneID:888926"
+FT   CDS             complement(join(3378711..3379001))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="esxR"
+FT                   /gene_synonym="ES6_9; TB10.3"
+FT                   /locus_tag="Rv3019c"
+FT                   /product="ESAT-6 like protein EsxR"
+FT                   /label=esxR
+FT                   /note="TB10.3 (ESAT-6 like protein 9)"
+FT                   /db_xref="GeneID:888926"
+FT                   /protein_id="NP_217535.1"
+FT                   /translation="MSQIMYNYPAMMAHAGDMAGYAGTLQSLGADIASEQAVLSSAWQG
+FT                   DTGITYQGWQTQWNQALEDLVRAYQSMSGTHESNTMAMLARDGAEAAKWGG"
+FT   gene            complement(join(3379036..3379329))
+FT                   /gene="esxS"
+FT                   /gene_synonym="PE28"
+FT                   /locus_tag="Rv3020c"
+FT                   /label=esxS
+FT                   /db_xref="GeneID:888946"
+FT   CDS             complement(join(3379036..3379329))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="esxS"
+FT                   /gene_synonym="PE28"
+FT                   /locus_tag="Rv3020c"
+FT                   /product="ESAT-6 like protein EsxS"
+FT                   /label=esxS
+FT                   /note="Member of the Mycobacterium tuberculosis PE family,
+FT                   PGRS subfamily of ala-, gly-rich proteins. A core 
+FT                   mycobacterial gene; conserved in mycobacterial strains (See
+FT                   Marmiesse et al., 2004)."
+FT                   /db_xref="GeneID:888946"
+FT                   /protein_id="YP_177919.1"
+FT                   /translation="MSLLDAHIPQLIASHTAFAAKAGLMRHTIGQAEQQAMSAQAFHQG
+FT                   ESAAAFQGAHARFVAAAAKVNTLLDIAQANLGEAAGTYVAADAAAASSYTGF"
+FT   gene            complement(join(3709715..3710248))
+FT                   /gene="moaC3"
+FT                   /locus_tag="Rv3324c"
+FT                   /label=moaC3
+FT                   /db_xref="GeneID:887981"
+FT   CDS             complement(join(3709715..3710248))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="moaC3"
+FT                   /locus_tag="Rv3324c"
+FT                   /product="cyclic pyranopterin monophosphate synthase
+FT                   accessory protein"
+FT                   /label=moaC3
+FT                   /note="molybdenum cofactor biosynthesis protein MoaC3"
+FT                   /db_xref="GeneID:887981"
+FT                   /protein_id="NP_217841.3"
+FT                   /translation="MNDHDGVLTHLDEQGAARMVDVSAKAVTLRRARASGAVLMKPSTL
+FT                   DMICHGTAAKGDVIATARIAGIMAAKRTGELIPLCHPLGIEAVTVTLEPQGADRLSIAA
+FT                   TVTTVARTGVEMEALTAVTVTALTVYDMCKAVDRAMTITDIRLDEKSGGRSGHYRRHDA
+FT                   DVKPSDGGSTEDGC"
+FT   gene            complement(join(3710245..3710379))
+FT                   /locus_tag="Rv3324A"
+FT                   /label=Rv3324A
+FT                   /db_xref="GeneID:3205081"
+FT                   /pseudogene="unknown"
+FT   misc_feature    complement(join(3710245..3710379))
+FT                   /locus_tag="Rv3324A"
+FT                   /note="Probable pseudogene moaB3,fragment of 
+FT                   pterin-4-alpha-carbinolamine dehydratase,equivalent to 
+FT                   C-terminus of MT3426|Q8VJ32 pterin-4-alpha-carbinolamine 
+FT                   dehydratase from Mycobacterium tuberculosis strain CDC1551"
+FT                   /pseudogene="unknown"
+FT   mobile_element  3710382..3711736
+FT                   /mobile_element_type="insertion sequence:IS6110-14"
+FT                   /label=insertion sequence:IS6110-14
+FT                   /note="IS6110-14, len: 1355 nt. Insertion sequence
+FT                   IS6110."
+FT   gene            join(4153740..4155674)
+FT                   /gene="leuA"
+FT                   /locus_tag="Rv3710"
+FT                   /label=leuA
+FT                   /db_xref="GeneID:885092"
+FT   CDS             join(4153740..4155674)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="leuA"
+FT                   /locus_tag="Rv3710"
+FT                   /product="2-isopropylmalate synthase"
+FT                   /label=leuA
+FT                   /note="alpha-isopropylmalate synthase) (alpha-IPM
+FT                   synthetase) (IPMS)"
+FT                   /db_xref="GeneID:885092"
+FT                   /inference="protein motif:same species:PS00815"
+FT                   /inference="protein motif:same species:PS00816"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="DESCRIPTION:Protein purification and 
+FT                   characterization[PMID:11914056]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218227.3"
+FT                   /translation="MTTSESPDAYTESFGAHTIVKPAGPPRVGQPSWNPQRASSMPVNR
+FT                   YRPFAEEVEPIRLRNRTWPDRVIDRAPLWCAVDLRDGNQALIDPMSPARKRRMFDLLVR
+FT                   MGYKEIEVGFPSASQTDFDFVREIIEQGAIPDDVTIQVLTQCRPELIERTFQACSGAPR
+FT                   AIVHFYNSTSILQRRVVFRANRAEVQAIATDGARKCVEQAAKYPGTQWRFEYSPESYTG
+FT                   TELEYAKQVCDAVGEVIAPTPERPIIFNLPATVEMTTPNVYADSIEWMSRNLANRESVI
+FT                   LSLHPHNDRGTAVAAAELGFAAGADRIEGCLFGNGERTGNVCLVTLGLNLFSRGVDPQI
+FT                   DFSNIDEIRRTVEYCNQLPVHERHPYGGDLVYTAFSGSHQDAINKGLDAMKLDADAADC
+FT                   DVDDMLWQVPYLPIDPRDVGRTYEAVIRVNSQSGKGGVAYIMKTDHGLSLPRRLQIEFS
+FT                   QVIQKIAEGTAGEGGEVSPKEMWDAFAEEYLAPVRPLERIRQHVDAADDDGGTTSITAT
+FT                   VKINGVETEISGSGNGPLAAFVHALADVGFDVAVLDYYEHAMSAGDDAQAAAYVEASVT
+FT                   IASPAQPGEAGRHASDPVTIASPAQPGEAGRHASDPVTSKTVWGVGIAPSITTASLRAV
+FT                   VSAVNRAAR"
+FT   gene            complement(join(4155740..4156729))
+FT                   /gene="dnaQ"
+FT                   /locus_tag="Rv3711c"
+FT                   /label=dnaQ
+FT                   /db_xref="GeneID:885088"
+FT   CDS             complement(join(4155740..4156729))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="dnaQ"
+FT                   /locus_tag="Rv3711c"
+FT                   /product="DNA polymerase III subunit epsilon"
+FT                   /label=dnaQ
+FT                   /db_xref="GeneID:885088"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="NP_218228.1"
+FT                   /translation="MSHTWGRPASHQDRGWAVIDVETSGFRPGQARIISLAVLGLDAAG
+FT                   RLEQSVVSLLNPKVDPGPTHVHGLTAAMLDGQPQFADIAGEVVDVLRGRTLVAHNVAFD
+FT                   YAFLAAEAEIAEAELPVDFVMCTVELARRLQLGVDNLRLETLAAHWGVPQQRPHDAFDD
+FT                   VRVLTGILAAALESARELDVWLPVHPVTRRRWPNGRVTHDELRPLKAVAARMACPYLNP
+FT                   GRYVQGRPLVQGMRVGLAAEVKRTHEELVERILHAGLAYSDVVDRDTSLVVCNATAPEH
+FT                   GKGYHALQLGVPVMPEARFMECIGAVVGGASVEDFTDVAPVEKQLALF"
+FT   gene            join(4171421..4172614)
+FT                   /locus_tag="Rv3726"
+FT                   /label=Rv3726
+FT                   /db_xref="GeneID:885801"
+FT   CDS             join(4171421..4172614)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv3726"
+FT                   /product="dehydrogenase"
+FT                   /label=Rv3726
+FT                   /db_xref="GeneID:885801"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218243.1"
+FT                   /translation="MKAVTCTNAKLEVVDRPSPAPAKGQLLLDVLRCGICGSDLHARLH
+FT                   CDELADVMAESGYHAFMRSNQQVVFGHEFCGEVVDYGPGTRRTPRRGTPVVAMPLLRRG
+FT                   NKEVHGIGLSTMAPGAYAERLVVEQSLTFPVPNGLAPEIAALTEPMAVGWHAVRRGEVG
+FT                   KGDVAIVIGCGPIGLAVICMLKSRGVHTVIASDFSPGRRALATACGADSVVDPVQDSPY
+FT                   AVAAGLGQGNRHLQSILDAFDLAVGTVERLQRLRLPWWHLWRAAEAAGAATPKRPVIFE
+FT                   CVGVPGIIDGIIASAPLFSRVVVVGVCMGSDHIRPAMAINKEINLRFVLGYTPLEFRDT
+FT                   LHMLADGKVNAAPLITGTVGLPGVAAAFDALGDPEAHAKIMIDPKSNAASPQPFRVE"
+FT   gene            join(4172955..4174763)
+FT                   /locus_tag="Rv3727"
+FT                   /label=Rv3727
+FT                   /db_xref="GeneID:885766"
+FT   CDS             join(4172955..4174763)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv3727"
+FT                   /product="oxidoreductase"
+FT                   /label=Rv3727
+FT                   /db_xref="GeneID:885766"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="NP_218244.1"
+FT                   /translation="MKPSPADTHVVIAGAGIAGLAAAMILAEAGVRVTLCEAASEAGGK
+FT                   AKSLRLADGHPTEHSLRVYTDTYQTLLTLFSRIPTEHDRTVLDNLVGVSMVSATAQGVI
+FT                   GRIAAPVALQRRRPTFARIIGKVVEPPRQLVRILLRGPMVIVGLAQRGVPATDVLHYLY
+FT                   AHLRLLWMCRERLLAELGDISYADYLQLGCKSAQAQEFFSAVPRIYVAARTSAEAAAIA
+FT                   PIVLKGLFRLKSNCPSALNDAKLPAIMMMDGPTSERMVDPWIRHLTRLGVDIHFNTRVG
+FT                   DLEFDDGRVTALISSDGRRFACDYALLAVPYLTLRELAKSAHVKRYLPQLTQQHALALE
+FT                   ASNGIQCFLRDLPATWPPFIRPGVVTTHLQSQWSLVCVLQGEGFWKNVRLPEGTRYVLS
+FT                   ITWSDVETPGPVFDRPLSECTPDEILTECLTQCGLDKSNVLGWRIDHELKHLDEAEYEK
+FT                   VASELPPHLVSAPARGQRMVNFSPLTVLMPGARHRSPGICTSVPNLLLAGEVIYSPDLT
+FT                   LFVPTMEKAACSGYLAARQIMNMVASHAAPLRIDFRDPAPFAVLRRVDRWFWSRRRRPP
+FT                   DRSTFATPPTAMPAPSHLTDVDRSAS"
+FT   gene            join(4226989..4227525)
+FT                   /locus_tag="Rv3780"
+FT                   /label=Rv3780
+FT                   /db_xref="GeneID:886115"
+FT   CDS             join(4226989..4227525)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv3780"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv3780
+FT                   /db_xref="GeneID:886115"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218297.1"
+FT                   /translation="MRKRMVIGLSTGSDDDDVEVIGGVDPRLIAVQENDSDESSLTDLV
+FT                   EQPAKVMRIGTMIKQLLEEVRAAPLDEASRNRLRDIHATSIRELEDGLAPELREELDRL
+FT                   TLPFNEDAVPSDAELRIAQAQLVGWLEGLFHGIQTALFAQQMAARAQLQQMRQGALPPG
+FT                   VGKSGQHGHGTGQYL"
+FT   gene            join(4227529..4228350)
+FT                   /gene="rfbE"
+FT                   /locus_tag="Rv3781"
+FT                   /label=rfbE
+FT                   /db_xref="GeneID:886113"
+FT   CDS             join(4227529..4228350)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="rfbE"
+FT                   /locus_tag="Rv3781"
+FT                   /product="O-antigen/lipopolysaccharide ABC transporter
+FT                   ATP-binding protein RfbE"
+FT                   /label=rfbE
+FT                   /db_xref="GeneID:886113"
+FT                   /inference="protein motif:same species:PS00017"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218298.1"
+FT                   /translation="MSDPHHPHIQTHNAWVEFPIFDAKSRSLKKAVLGKAGGTIGRNNS
+FT                   NVVVIEALRDITMELNLGDRVGLVGHNGAGKSTLLRLLSGIYEPTRGWAKVTGRVAPVF
+FT                   DLGIGMDPEISGYENIIIRGLFLGQTRKQMQAKVDEIAEFTELGEYLSMPLRTYSTGMR
+FT                   VRLAMGVVTSIDPEILLLDEGIGAVDADFLRKAQSRLQNLVERSGILVFASHSNEFLAR
+FT                   LCKTAIWIDHGVIRLAGGIEEVVRAYEGEDAARHVREVLAETQADRQNVQG"
+FT   gene            join(4228347..4229261)
+FT                   /gene="glfT1"
+FT                   /gene_synonym="rfbE"
+FT                   /locus_tag="Rv3782"
+FT                   /label=glfT1
+FT                   /db_xref="GeneID:886114"
+FT   CDS             join(4228347..4229261)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="glfT1"
+FT                   /gene_synonym="rfbE"
+FT                   /locus_tag="Rv3782"
+FT                   /product="galactofuranosyl transferase GlfT"
+FT                   /label=glfT1
+FT                   /db_xref="GeneID:886114"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="DESCRIPTION:Gene expression, protein
+FT                   purification and characterization[PMID:16952951]"
+FT                   /experiment="DESCRIPTION:Protein purification and 
+FT                   characterization[PMID:18248822]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21969609]"
+FT                   /protein_id="YP_178014.1"
+FT                   /translation="MTESVFAVVVTHRRPDELAKSLDVLTAQTRLPDHLIVVDNDGCGD
+FT                   SPVRELVAGQPIATTYLGSRRNLGGAGGFALGMLHALAQGADWVWLADDDGHAQDARVL
+FT                   ATLLACAEKYSLAEVSPMVCNIDDPTRLAFPLRRGLVWRRRASELRTEAGQELLPGIAS
+FT                   LFNGALFRASTLAAIGVPDLRLFIRGDEVEMHRRLIRSGLPFGTCLDAAYLHPCGSDEF
+FT                   KPILCGRMHAQYPDDPGKRFFTYRNRGYVLSQPGLRKLLAQEWLRFGWFFLVTRRDPKG
+FT                   LWEWIRLRRLGRREKFGKPGGSA"
+FT   gene            join(4229258..4230100)
+FT                   /gene="rfbD"
+FT                   /locus_tag="Rv3783"
+FT                   /label=rfbD
+FT                   /db_xref="GeneID:886111"
+FT   CDS             join(4229258..4230100)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="rfbD"
+FT                   /locus_tag="Rv3783"
+FT                   /product="O-antigen/lipopolysaccharide ABC transporter
+FT                   permease RfbD"
+FT                   /label=rfbD
+FT                   /db_xref="GeneID:886111"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218300.1"
+FT                   /translation="MTFMDAQASFQTQSRTLARVRGDLVDGFRRHELWLHLGWQDIKQR
+FT                   YRRSVLGPFWITIATGTTAVAMGGLYSKLFRLELSEHLPYVTLGLIVWNLINAAILDGA
+FT                   EVFVANEGLIKQLPAPLSVHVYRLVWRQMIFFAHNIVIYFVIAIIFPKPWSWADLSFLP
+FT                   ALALIFLNCVWVSLCFGILATRYRDIGPLLFSVVQLLFFMTPIIWNDETLRRQGAGRWS
+FT                   SIVELNPLLHYLDIVRAPLLGAHQELRHWLVVLVLTVVGWMLAAFAMRQYRARVPYWV"
+FT   gene            join(4230256..4231236)
+FT                   /gene_synonym="epiB"
+FT                   /locus_tag="Rv3784"
+FT                   /label=Rv3784
+FT                   /db_xref="GeneID:886117"
+FT   CDS             join(4230256..4231236)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene_synonym="epiB"
+FT                   /locus_tag="Rv3784"
+FT                   /product="dTDP-glucose 4,6-dehydratase"
+FT                   /label=Rv3784
+FT                   /db_xref="GeneID:886117"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="YP_178015.1"
+FT                   /translation="MEILVTGGAGFQGSHLTESLLANGHWVTVLDKSSRNAVRNMQGFR
+FT                   SHDRAAFISGSVTDGQTIDRAVRDHHVVFHLAAHVNVDQSLGDPESFLETNVMGTYRVL
+FT                   EAVRRYRNRLIYVSTCEVYGDGHNLKEGERLDEHAELKPNSPYGASKAAADRLCYSYFR
+FT                   SYGLDVTIVRPFNIFGVRQKAGRFGALIPRLVRQGINGEGLTIFGAGSATRDYLYVSDI
+FT                   VGAYNLVLRTPTLRGQAINFASGKDTRVRDIVEYVADKFGARIEHRDARPGEVQRFPAD
+FT                   ISLAKSIGFQPQVEIWDGIDRYINWAKDQPQYPYEQDGFSGSSVL"
+FT   gene            join(4231320..4232393)
+FT                   /locus_tag="Rv3785"
+FT                   /label=Rv3785
+FT                   /db_xref="GeneID:886119"
+FT   CDS             join(4231320..4232393)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv3785"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv3785
+FT                   /db_xref="GeneID:886119"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21085642]"
+FT                   /protein_id="NP_218302.1"
+FT                   /translation="MVTVARRPVCPVTLTPGDPALASVRDLVDAWSAHDALAELVTMFG
+FT                   GAFPQTDHLEARLASLDKFSTAWDYRARARAARALHGEPVRCQDSGGGARWLIPRLDLP
+FT                   AKKRDAIVGLAQQLGLTLESTPQGTTFDHVLVIGTGRHSNLIRARWARELAKGRQVGHI
+FT                   VLAAASRRLLPSEDDAVAVCAPGARTEFELLAAAARDAFGLDVHPAVRYVRQRDDNPHR
+FT                   DSMVWRFAADTNDLGVPITLLEAPSPEPDSSRATSADTFTFTAHTLGMQDSTCLLVTGQ
+FT                   PFVPYQNFDALRTLALPFGIQVETVGFGIDRYDGLGELDQQHPAKLLQEVRSTIRAARA
+FT                   LLERIEAGERMATDPRR"
+FT   gene            complement(join(4232374..4233597))
+FT                   /locus_tag="Rv3786c"
+FT                   /label=Rv3786c
+FT                   /db_xref="GeneID:886108"
+FT   CDS             complement(join(4232374..4233597))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv3786c"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv3786c
+FT                   /db_xref="GeneID:886108"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218303.1"
+FT                   /translation="MRILAMTRAHNAGRTLAATLDSLAVFSDDIYVIDDRSTDDTAEIL
+FT                   ANHPAVTNVVRARPDLPPTPWLIPESAGLELLYRMADFCRPDWVMMVDADWLVETDIDL
+FT                   RAVLARTPDDIVALMCPMVSRWDDPEYPDLIPVMGTAEALRGPLWRWYPGLRAGGKLMH
+FT                   NPHWPANITDHGRIGQLPGVRLVHSGWSTLAERILRVEHYLRLDPDYRFNFGVAYDRSL
+FT                   LFGYALDEVDLLKADYRRRIRGDFDPLEPGGRLPIDREPRAIGRGYGPHAGGFHPGVDF
+FT                   ATDPGTPVYAVASGAVSAIDEVDGLVSLTIARCELDVVYVFRPGDEGRLVLGDRIAAGA
+FT                   QLGTIGAQGESADGYLHFEVRTQDGHVNPVRYLANMGLRPWPPPGRLRAVSGSYPPATP
+FT                   CTITAEDR"
+FT   gene            complement(join(4233610..4234536))
+FT                   /locus_tag="Rv3787c"
+FT                   /label=Rv3787c
+FT                   /db_xref="GeneID:886118"
+FT   CDS             complement(join(4233610..4234536))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv3787c"
+FT                   /product="S-adenosyl-L-methionine-dependent
+FT                   methyltransferase"
+FT                   /label=Rv3787c
+FT                   /db_xref="GeneID:886118"
+FT                   /protein_id="NP_218304.1"
+FT                   /translation="MARTDDDSWDLATGVGATATLVAAGRARAARAAQPLIDDPFAEPL
+FT                   VRAVGVEFLTRWATGELDAADVDDPDAAWGLQRMTTELVVRTRYFDQFFLDAAAAGVRQ
+FT                   AVILASGLDARGYRLPWPADTTVFEVDQPRVLEFKAQTLAGLGAQPTADLRMVPADLRH
+FT                   DWPDALRRGGFDAAEPAAWIAEGLFGYLPPDAQNRLLDHVTDLSAPGSRLALEAFLGSA
+FT                   DRDSARVEEMIRTATRGWREHGFHLDIWALNYAGPRHEVSGYLDNHGWRSVGTTTAQLL
+FT                   AAHDLPAAPALPAGLADRPNYWTCVLG"
+FT   gene            join(4234780..4235265)
+FT                   /locus_tag="Rv3788"
+FT                   /label=Rv3788
+FT                   /db_xref="GeneID:886120"
+FT   CDS             join(4234780..4235265)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv3788"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv3788
+FT                   /db_xref="GeneID:886120"
+FT                   /protein_id="NP_218305.1"
+FT                   /translation="MSEKVESKGLADAARDHLAAELARLRQRRDRLEVEVKNDRGMIGD
+FT                   HGDAAEAIQRADELAILGDRINELDRRLRTGPTPWSGSETLPGGTEVTLRFPDGEVVTM
+FT                   HVISVVEETPVGREAETLTARSPLGQALAGHQPGDTVTYSTPQGPNQVQLLAVKLPS"
+FT   gene            join(4235374..4235739)
+FT                   /locus_tag="Rv3789"
+FT                   /label=Rv3789
+FT                   /db_xref="GeneID:886109"
+FT   CDS             join(4235374..4235739)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /locus_tag="Rv3789"
+FT                   /product="GtrA family protein"
+FT                   /label=Rv3789
+FT                   /db_xref="GeneID:886109"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218306.1"
+FT                   /translation="MRFVVTGGLAGIVDFGLYVVLYKVAGLQVDLSKAISFIVGTITAY
+FT                   LINRRWTFQAEPSTARFVAVMLLYGITFAVQVGLNHLCLALLHYRAWAIPVAFVIAQGT
+FT                   ATVINFIVQRAVIFRIR"
+FT   gene            join(4235779..4237164)
+FT                   /gene="dprE1"
+FT                   /locus_tag="Rv3790"
+FT                   /label=dprE1
+FT                   /db_xref="GeneID:886125"
+FT   CDS             join(4235779..4237164)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="dprE1"
+FT                   /locus_tag="Rv3790"
+FT                   /product="decaprenylphosphoryl-beta-D-ribose oxidase"
+FT                   /label=dprE1
+FT                   /db_xref="GeneID:886125"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="DESCRIPTION:Protein purification and 
+FT                   characterization[PMID:16291675]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218307.1"
+FT                   /translation="MLSVGATTTATRLTGWGRTAPSVANVLRTPDAEMIVKAVARVAES
+FT                   GGGRGAIARGLGRSYGDNAQNGGGLVIDMTPLNTIHSIDADTKLVDIDAGVNLDQLMKA
+FT                   ALPFGLWVPVLPGTRQVTVGGAIACDIHGKNHHSAGSFGNHVRSMDLLTADGEIRHLTP
+FT                   TGEDAELFWATVGGNGLTGIIMRATIEMTPTSTAYFIADGDVTASLDETIALHSDGSEA
+FT                   RYTYSSAWFDAISAPPKLGRAAVSRGRLATVEQLPAKLRSEPLKFDAPQLLTLPDVFPN
+FT                   GLANKYTFGPIGELWYRKSGTYRGKVQNLTQFYHPLDMFGEWNRAYGPAGFLQYQFVIP
+FT                   TEAVDEFKKIIGVIQASGHYSFLNVFKLFGPRNQAPLSFPIPGWNICVDFPIKDGLGKF
+FT                   VSELDRRVLEFGGRLYTAKDSRTTAETFHAMYPRVDEWISVRRKVDPLRVFASDMARRL
+FT                   ELL"
+FT   gene            join(4237165..4237929)
+FT                   /gene="dprE2"
+FT                   /locus_tag="Rv3791"
+FT                   /label=dprE2
+FT                   /db_xref="GeneID:886124"
+FT   CDS             join(4237165..4237929)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="dprE2"
+FT                   /locus_tag="Rv3791"
+FT                   /product="decaprenylphosphoryl-D-2-keto erythropentose
+FT                   reductase"
+FT                   /label=dprE2
+FT                   /db_xref="GeneID:886124"
+FT                   /inference="protein motif:same species:PS00061"
+FT                   /experiment="DESCRIPTION:Protein purification and 
+FT                   characterization[PMID:16291675]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218308.1"
+FT                   /translation="MVLDAVGNPQTVLLLGGTSEIGLAICERYLHNSAARIVLACLPDD
+FT                   PRREDAAAAMKQAGARSVELIDFDALDTDSHPKMIEAAFSGGDVDVAIVAFGLLGDAEE
+FT                   LWQNQRKAVQIAEINYTAAVSVGVLLAEKMRAQGFGQIIAMSSAAGERVRRANFVYGST
+FT                   KAGLDGFYLGLSEALREYGVRVLVIRPGQVRTRMSAHLKEAPLTVDKEYVANLAVTASA
+FT                   KGKELVWAPAAFRYVMMVLRHIPRSIFRKLPI"
+FT   gene            join(4237932..4239863)
+FT                   /gene="aftA"
+FT                   /locus_tag="Rv3792"
+FT                   /label=aftA
+FT                   /db_xref="GeneID:886127"
+FT   CDS             join(4237932..4239863)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="aftA"
+FT                   /locus_tag="Rv3792"
+FT                   /product="arabinofuranosyltransferase"
+FT                   /label=aftA
+FT                   /db_xref="GeneID:886127"
+FT                   /experiment="DESCRIPTION:Protein purification and 
+FT                   characterization[PMID:16595677]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218309.1"
+FT                   /translation="MPSRRKSPQFGHEMGAFTSARAREVLVALGQLAAAVVVAVGVAVV
+FT                   SLLAIARVEWPAFPSSNQLHALTTVGQVGCLAGLVGIGWLWRHGRFRRLARLGGLVLVS
+FT                   AFTVVTLGMPLGATKLYLFGISVDQQFRTEYLTRLTDTAALRDMTYIGLPPFYPPGWFW
+FT                   IGGRAAALTGTPAWEMFKPWAITSMAIAVAVALVLWWRMIRFEYALLVTVATAAVMLAY
+FT                   SSPEPYAAMITVLLPPMLVLTWSGLGARDRQGWAAVVGAGVFLGFAATWYTLLVAYGAF
+FT                   TVVLMALLLAGSRLQSGIKAAVDPLCRLAVVGAIAAAIGSTTWLPYLLRAARDPVSDTG
+FT                   SAQHYLPADGAALTFPMLQFSLLGAICLLGTLWLVMRARSSAPAGALAIGVLAVYLWSL
+FT                   LSMLATLARTTLLSFRLQPTLSVLLVAAGAFGFVEAVQALGKRGRGVIPMAAAIGLAGA
+FT                   IAFSQDIPDVLRPDLTIAYTDTDGYGQRGDRRPPGSEKYYPAIDAAIRRVTGKRRDRTV
+FT                   VLTADYSFLSYYPYWGFQGLTPHYANPLAQFDKRATQIDSWSGLSTADEFIAALDKLPW
+FT                   QPPTVFLMRHGAHNSYTLRLAQDVYPNQPNVRRYTVDLRTALFADPRFVVEDIGPFVLA
+FT                   IRKPQESA"
+FT   gene            join(4239863..4243147)
+FT                   /gene="embC"
+FT                   /locus_tag="Rv3793"
+FT                   /label=embC
+FT                   /db_xref="GeneID:886112"
+FT   CDS             join(4239863..4243147)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="embC"
+FT                   /locus_tag="Rv3793"
+FT                   /product="arabinosyltransferase C"
+FT                   /label=embC
+FT                   /note="EmbC (arabinosylindolylacetylinositol synthase)"
+FT                   /db_xref="GeneID:886112"
+FT                   /inference="protein motif:same species:PS00017"
+FT                   /inference="protein motif:same species:PS00044"
+FT                   /experiment="DESCRIPTION:Gene expression, mutation 
+FT                   analysis[PMID:9142129]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218310.1"
+FT                   /translation="MATEAAPPRIAVRLPSTSVRDAGANYRIARYVAVVAGLLGAVLAI
+FT                   ATPLLPVNQTTAQLNWPQNGTFASVEAPLIGYVATDLNITVPCQAAAGLAGSQNTGKTV
+FT                   LLSTVPKQAPKAVDRGLLLQRANDDLVLVVRNVPLVTAPLSQVLGPTCQRLTFTAHADR
+FT                   VAAEFVGLVQGPNAEHPGAPLRGERSGYDFRPQIVGVFTDLAGPAPPGLSFSASVDTRY
+FT                   SSSPTPLKMAAMILGVALTGAALVALHILDTADGMRHRRFLPARWWSTGGLDTLVIAVL
+FT                   VWWHFVGANTSDDGYILTMARVSEHAGYMANYYRWFGTPEAPFGWYYDLLALWAHVSTA
+FT                   SIWMRLPTLAMALTCWWVISREVIPRLGHAVKTSRAAAWTAAGMFLAVWLPLDNGLRPE
+FT                   PIIALGILLTWCSVERAVATSRLLPVAIACIIGALTLFSGPTGIASIGALLVAIGPLRT
+FT                   ILHRRSRRFGVLPLVAPILAAATVTAIPIFRDQTFAGEIQANLLKRAVGPSLKWFDEHI
+FT                   RYERLFMASPDGSIARRFAVLALVLALAVSVAMSLRKGRIPGTAAGPSRRIIGITIISF
+FT                   LAMMFTPTKWTHHFGVFAGLAGSLGALAAVAVTGAAMRSRRNRTVFAAVVVFVLALSFA
+FT                   SVNGWWYVSNFGVPWSNSFPKWRWSLTTALLELTVLVLLLAAWFHFVANGDGRRTARPT
+FT                   RFRARLAGIVQSPLAIATWLLVLFEVVSLTQAMISQYPAWSVGRSNLQALAGKTCGLAE
+FT                   DVLVELDPNAGMLAPVTAPLADALGAGLSEAFTPNGIPADVTADPVMERPGDRSFLNDD
+FT                   GLITGSEPGTEGGTTAAPGINGSRARLPYNLDPARTPVLGSWRAGVQVPAMLRSGWYRL
+FT                   PTNEQRDRAPLLVVTAAGRFDSREVRLQWATDEQAAAGHHGGSMEFADVGAAPAWRNLR
+FT                   APLSAIPSTATQVRLVADDQDLAPQHWIALTPPRIPRVRTLQNVVGAADPVFLDWLVGL
+FT                   AFPCQRPFGHQYGVDETPKWRILPDRFGAEANSPVMDHNGGGPLGITELLMRATTVASY
+FT                   LKDDWFRDWGALQRLTPYYPDAQPADLNLGTVTRSGLWSPAPLRRG"
+FT   gene            join(4243233..4246517)
+FT                   /gene="embA"
+FT                   /locus_tag="Rv3794"
+FT                   /label=embA
+FT                   /db_xref="GeneID:886123"
+FT   CDS             join(4243233..4246517)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="embA"
+FT                   /locus_tag="Rv3794"
+FT                   /product="arabinosyltransferase A"
+FT                   /label=embA
+FT                   /note="EmbA (arabinosylindolylacetylinositol synthase)"
+FT                   /db_xref="GeneID:886123"
+FT                   /experiment="DESCRIPTION:Gene expression, mutation 
+FT                   analysis[PMID:9142129]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218311.1"
+FT                   /translation="MPHDGNERSHRIARLAAVVSGIAGLLLCGIVPLLPVNQTTATIFW
+FT                   PQGSTADGNITQITAPLVSGAPRALDISIPCSAIATLPANGGLVLSTLPAGGVDTGKAG
+FT                   LFVRANQDTVVVAFRDSVAAVAARSTIAAGGCSALHIWADTGGAGADFMGIPGGAGTLP
+FT                   PEKKPQVGGIFTDLKVGAQPGLSARVDIDTRFITTPGALKKAVMLLGVLAVLVAMVGLA
+FT                   ALDRLSRGRTLRDWLTRYRPRVRVGFASRLADAAVIATLLLWHVIGATSSDDGYLLTVA
+FT                   RVAPKAGYVANYYRYFGTTEAPFDWYTSVLAQLAAVSTAGVWMRLPATLAGIACWLIVS
+FT                   RFVLRRLGPGPGGLASNRVAVFTAGAVFLSAWLPFNNGLRPEPLIALGVLVTWVLVERS
+FT                   IALGRLAPAAVAIIVATLTATLAPQGLIALAPLLTGARAIAQRIRRRRATDGLLAPLAV
+FT                   LAAALSLITVVVFRDQTLATVAESARIKYKVGPTIAWYQDFLRYYFLTVESNVEGSMSR
+FT                   RFAVLVLLFCLFGVLFVLLRRGRVAGLASGPAWRLIGTTAVGLLLLTFTPTKWAVQFGA
+FT                   FAGLAGVLGAVTAFTFARIGLHSRRNLTLYVTALLFVLAWATSGINGWFYVGNYGVPWY
+FT                   DIQPVIASHPVTSMFLTLSILTGLLAAWYHFRMDYAGHTEVKDNRRNRILASTPLLVVA
+FT                   VIMVAGEVGSMAKAAVFRYPLYTTAKANLTALSTGLSSCAMADDVLAEPDPNAGMLQPV
+FT                   PGQAFGPDGPLGGISPVGFKPEGVGEDLKSDPVVSKPGLVNSDASPNKPNAAITDSAGT
+FT                   AGGKGPVGINGSHAALPFGLDPARTPVMGSYGENNLAATATSAWYQLPPRSPDRPLVVV
+FT                   SAAGAIWSYKEDGDFIYGQSLKLQWGVTGPDGRIQPLGQVFPIDIGPQPAWRNLRFPLA
+FT                   WAPPEADVARIVAYDPNLSPEQWFAFTPPRVPVLESLQRLIGSATPVLMDIATAANFPC
+FT                   QRPFSEHLGIAELPQYRILPDHKQTAASSNLWQSSSTGGPFLFTQALLRTSTIATYLRG
+FT                   DWYRDWGSVEQYHRLVPADQAPDAVVEEGVITVPGWGRPGPIRALP"
+FT   gene            join(4246514..4249810)
+FT                   /gene="embB"
+FT                   /locus_tag="Rv3795"
+FT                   /label=embB
+FT                   /db_xref="GeneID:886126"
+FT   CDS             join(4246514..4249810)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="embB"
+FT                   /locus_tag="Rv3795"
+FT                   /product="arabinosyltransferase B"
+FT                   /label=embB
+FT                   /note="EmbB (arabinosylindolylacetylinositol synthase)"
+FT                   /db_xref="GeneID:886126"
+FT                   /experiment="DESCRIPTION:Gene expression, mutation 
+FT                   analysis[PMID:9142129]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218312.1"
+FT                   /translation="MTQCASRRKSTPNRAILGAFASARGTRWVATIAGLIGFVLSVATP
+FT                   LLPVVQTTAMLDWPQRGQLGSVTAPLISLTPVDFTATVPCDVVRAMPPAGGVVLGTAPK
+FT                   QGKDANLQALFVVVSAQRVDVTDRNVVILSVPREQVTSPQCQRIEVTSTHAGTFANFVG
+FT                   LKDPSGAPLRSGFPDPNLRPQIVGVFTDLTGPAPPGLAVSATIDTRFSTRPTTLKLLAI
+FT                   IGAIVATVVALIALWRLDQLDGRGSIAQLLLRPFRPASSPGGMRRLIPASWRTFTLTDA
+FT                   VVIFGFLLWHVIGANSSDDGYILGMARVADHAGYMSNYFRWFGSPEDPFGWYYNLLALM
+FT                   THVSDASLWMRLPDLAAGLVCWLLLSREVLPRLGPAVEASKPAYWAAAMVLLTAWMPFN
+FT                   NGLRPEGIIALGSLVTYVLIERSMRYSRLTPAALAVVTAAFTLGVQPTGLIAVAALVAG
+FT                   GRPMLRILVRRHRLVGTLPLVSPMLAAGTVILTVVFADQTLSTVLEATRVRAKIGPSQA
+FT                   WYTENLRYYYLILPTVDGSLSRRFGFLITALCLFTAVFIMLRRKRIPSVARGPAWRLMG
+FT                   VIFGTMFFLMFTPTKWVHHFGLFAAVGAAMAALTTVLVSPSVLRWSRNRMAFLAALFFL
+FT                   LALCWATTNGWWYVSSYGVPFNSAMPKIDGITVSTIFFALFAIAAGYAAWLHFAPRGAG
+FT                   EGRLIRALTTAPVPIVAGFMAAVFVASMVAGIVRQYPTYSNGWSNVRAFVGGCGLADDV
+FT                   LVEPDTNAGFMKPLDGDSGSWGPLGPLGGVNPVGFTPNGVPEHTVAEAIVMKPNQPGTD
+FT                   YDWDAPTKLTSPGINGSTVPLPYGLDPARVPLAGTYTTGAQQQSTLVSAWYLLPKPDDG
+FT                   HPLVVVTAAGKIAGNSVLHGYTPGQTVVLEYAMPGPGALVPAGRMVPDDLYGEQPKAWR
+FT                   NLRFARAKMPADAVAVRVVAEDLSLTPEDWIAVTPPRVPDLRSLQEYVGSTQPVLLDWA
+FT                   VGLAFPCQQPMLHANGIAEIPKFRITPDYSAKKLDTDTWEDGTNGGLLGITDLLLRAHV
+FT                   MATYLSRDWARDWGSLRKFDTLVDAPPAQLELGTATRSGLWSPGKIRIGP"
+FT   gene            join(4249878..4251005)
+FT                   /gene_synonym="atsH"
+FT                   /locus_tag="Rv3796"
+FT                   /label=Rv3796
+FT                   /db_xref="GeneID:886128"
+FT   CDS             join(4249878..4251005)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene_synonym="atsH"
+FT                   /locus_tag="Rv3796"
+FT                   /product="hypothetical protein"
+FT                   /label=Rv3796
+FT                   /db_xref="GeneID:886128"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="YP_178016.1"
+FT                   /translation="MLLGMHQAGHVGTHERRAAATRRSALTAAGLAVVGAGVLGASACS
+FT                   PQKSPQPSSPRLPDNALITLGVAAGPPPTPSRVGISSVLKIGRDLYVIDCGLGSLNAFT
+FT                   NAGLQFDDLKAMFITHLHTDHIVDYYNFFLSGGFLAPPGRAPVLVYGPGPAGGLPPSEV
+FT                   GNPNPATVNPANPTPGLAAATEALHRAFAYTSNIFIRDYGIDNVADLVKVTEIGLPPGS
+FT                   DYRNRAPKMSPFSVASDDNVSVTATLVSHYDVYPAFGFRFDLKKSGVSVTFSGDTTKSD
+FT                   NLITLAQGTDILVHEAVFSLDTAYFGNAFPPNYLVNSHTSAEQVGEVAAAAKPKQLILS
+FT                   HYAPDDLPDSQWLDKIKKNYSGMTTIARDGQVFAL"
+FT   gene            join(4251085..4252866)
+FT                   /gene="fadE35"
+FT                   /locus_tag="Rv3797"
+FT                   /label=fadE35
+FT                   /db_xref="GeneID:886122"
+FT   CDS             join(4251085..4252866)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="fadE35"
+FT                   /locus_tag="Rv3797"
+FT                   /product="acyl-CoA dehydrogenase FadE35"
+FT                   /label=fadE35
+FT                   /db_xref="GeneID:886122"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218314.1"
+FT                   /translation="MPEYDLEAVDKLPFSTPEKAQRYQTENYRGAMGLNWYLTDPTLQF
+FT                   IMAYYLRPDELAFAEPHLTRIGELTGGPVTRWAEETDRNPPRLERYDRWGHDISRVVLP
+FT                   ESFIQSKRAVIEARQAVRDDAARAGVKPSLALFAADYLLNQADIGMACALATGGNMVRS
+FT                   LVTAYAPPDVREFVLGKLNSGEWDGEAAQLLTERAGGSDLGALETTATRSGDVWLLNGF
+FT                   KWFASNCAGEAFVVLAKPEGAPDSTRGVATFLVLRTRRDGSRNGVRIRRLKDKLGTRSV
+FT                   ASGEIEFVDAEAFLLSGEPSADAGPSDGKGLTRMMELTNRLRLGTASFALGNARRALVE
+FT                   SLCYAGQRRAFGGALIDKPLMRRKLAEMVVDVEAALAMVFDGFGAANHRQPRCLPQRIA
+FT                   VPVTKLKTCRLGITVASDAIEIHGGNGYIETWPVARLLRDAQVNTIWEGPDNILCLDVR
+FT                   RGIEQTRAHETLLARLRDAVSVSDDDDTTRLVSRRIEDLDAAITAWTKLDRQLAEARLF
+FT                   PLAQFMGDVYAGALLTEQAAWERATRGTDRKALVARLYARRYLADQGPLRGIDADCDEA
+FT                   LQRFDELVAGAFTAEQT"
+FT   gene            complement(join(4254380..4255948))
+FT                   /gene="accD4"
+FT                   /locus_tag="Rv3799c"
+FT                   /label=accD4
+FT                   /db_xref="GeneID:886131"
+FT   CDS             complement(join(4254380..4255948))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="accD4"
+FT                   /locus_tag="Rv3799c"
+FT                   /product="propionyl-CoA carboxylase subunit beta AccD"
+FT                   /label=accD4
+FT                   /note="pccase (propanoyl-CoA:carbon dioxide ligase)"
+FT                   /db_xref="GeneID:886131"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218316.2"
+FT                   /translation="MTVTEPVLHTTAEKLAELRERLELAKEPGGEKAAAKRDKKGIPSA
+FT                   RARIYELVDPGSFMEIGALCRTPGDPNALYGDGVVTGHGLINGRPVGVFSHDQTVFGGT
+FT                   VGEMFGRKVARLMEWCAMVGCPIVGINDSGGARIQDAVTSLAWYAELGRRHELLSGLVP
+FT                   QISIILGKCAGGAVYSPIQTDLVVAVRDQGYMFVTGPDVIKDVTGEDVSLDELGGADHQ
+FT                   ASYGNIHQVVESEAAAYQYVRDFLSFLPSNCFDKPPVVNPGLEPEITGHDLELDSIVPD
+FT                   SDNMAYDMHEVLLRIFDDGDFLDVAAQAGQAIITGYARVDGRTVGVVANQPMHMSGAID
+FT                   NEASDKAARFIRFSDAFDIPLVFVVDTPGFLPGVEQEKNGIIKRGGRFLYAVVEADVPK
+FT                   VTITIRKSYGGAYAVMGSKQLTADLNFAWPTARIAVIGADGAAQLLMKRFPDPNAPEAQ
+FT                   AIRKSFVENYNLNMAIPWIAAERGFIDAVIDPHETRLLLRKSMHLLRDKQLWWRVGRKH
+FT                   GLIPV"
+FT   gene            complement(join(4255945..4261146))
+FT                   /gene="pks13"
+FT                   /locus_tag="Rv3800c"
+FT                   /label=pks13
+FT                   /db_xref="GeneID:886133"
+FT   CDS             complement(join(4255945..4261146))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="pks13"
+FT                   /locus_tag="Rv3800c"
+FT                   /product="polyketide synthase"
+FT                   /label=pks13
+FT                   /db_xref="GeneID:886133"
+FT                   /inference="protein motif:same species:PS00606"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218317.1"
+FT                   /translation="MADVAESQENAPAERAELTVPEMRQWLRNWVGKAVGKAPDSIDES
+FT                   VPMVELGLSSRDAVAMAADIEDLTGVTLSVAVAFAHPTIESLATRIIEGEPETDLAGDD
+FT                   AEDWSRTGPAERVDIAIVGLSTRFPGEMNTPEQTWQALLEGRDGITDLPDGRWSEFLEE
+FT                   PRLAARVAGARTRGGYLKDIKGFDSEFFAVAKTEADNIDPQQRMALELTWEALEHARIP
+FT                   ASSLRGQAVGVYIGSSTNDYSFLAVSDPTVAHPYAITGTSSSIIANRVSYFYDFHGPSV
+FT                   TIDTACSSSLVAIHQGVQALRNGEADVVVAGGVNALITPMVTLGFDEIGAVLAPDGRIK
+FT                   SFSADADGYTRSEGGGMLVLKRVDDARRDGDAILAVIAGSAVNHDGRSNGLIAPNQDAQ
+FT                   ADVLRRAYKDAGIDPRTVDYIEAHGTGTILGDPIEAEALGRVVGRGRPADRPALLGAVK
+FT                   TNVGHLESAAGAASMAKVVLALQHDKLPPSINFAGPSPYIDFDAMRLKMITTPTDWPRY
+FT                   GGYALAGVSSFGFGGANAHVVVREVLPRDVVEKEPEPEPEPKAAAEPAEAPTLAGHALR
+FT                   FDEFGNIITDSAVAEEPEPELPGVTEEALRLKEAALEELAAQEVTAPLVPLAVSAFLTS
+FT                   RKKAAAAELADWMQSPEGQASSLESIGRSLSRRNHGRSRAVVLAHDHDEAIKGLRAVAA
+FT                   GKQAPNVFSVDGPVTTGPVWVLAGFGAQHRKMGKSLYLRNEVFAAWIEKVDALVQDELG
+FT                   YSVLELILDDAQDYGIETTQVTIFAIQIALGELLRHHGAKPAAVIGQSLGEAASAYFAG
+FT                   GLSLRDATRAICSRSHLMGEGEAMLFGEYIRLMALVEYSADEIREVFSDFPDLEVCVYA
+FT                   APTQTVIGGPPEQVDAILARAEAEGKFARKFATKGASHTSQMDPLLGELTAELQGIKPT
+FT                   SPTCGIFSTVHEGRYIKPGGEPIHDVEYWKKGLRHSVYFTHGIRNAVDSGHTTFLELAP
+FT                   NPVALMQVALTTADAGLHDAQLIPTLARKQDEVSSMVSTMAQLYVYGHDLDIRTLFSRA
+FT                   SGPQDYANIPPTRFKRKEHWLPAHFSGDGSTYMPGTHVALPDGRHVWEYAPRDGNVDLA
+FT                   ALVRAAAAHVLPDAQLTAAEQRAVPGDGARLVTTMTRHPGGASVQVHARIDESFTLVYD
+FT                   ALVSRAGSESVLPTAVGAATAIAVADGAPVAPETPAEDADAETLSDSLTTRYMPSGMTR
+FT                   WSPDSGETIAERLGLIVGSAMGYEPEDLPWEVPLIELGLDSLMAVRIKNRVEYDFDLPP
+FT                   IQLTAVRDANLYNVEKLIEYAVEHRDEVQQLHEHQKTQTAEEIARAQAELLHGKVGKTE
+FT                   PVDSEAGVALPSPQNGEQPNPTGPALNVDVPPRDAAERVTFATWAIVTGKSPGGIFNEL
+FT                   PRLDDEAAAKIAQRLSERAEGPITAEDVLTSSNIEALADKVRTYLEAGQIDGFVRTLRA
+FT                   RPEAGGKVPVFVFHPAGGSTVVYEPLLGRLPADTPMYGFERVEGSIEERAQQYVPKLIE
+FT                   MQGDGPYVLVGWSLGGVLAYACAIGLRRLGKDVRFVGLIDAVRAGEEIPQTKEEIRKRW
+FT                   DRYAAFAEKTFNVTIPAIPYEQLEELDDEGQVRFVLDAVSQSGVQIPAGIIEHQRTSYL
+FT                   DNRAIDTAQIQPYDGHVTLYMADRYHDDAIMFEPRYAVRQPDGGWGEYVSDLEVVPIGG
+FT                   EHIQAIDEPIIAKVGEHMSRALGQIEADRTSEVGKQ"
+FT   gene            complement(join(4261153..4263066))
+FT                   /gene="fadD32"
+FT                   /locus_tag="Rv3801c"
+FT                   /label=fadD32
+FT                   /db_xref="GeneID:886130"
+FT   CDS             complement(join(4261153..4263066))
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="fadD32"
+FT                   /locus_tag="Rv3801c"
+FT                   /product="long-chain-fatty-acid--AMP ligase FadD32"
+FT                   /label=fadD32
+FT                   /note="fatty-acid-AMP synthetase (fatty-acid-AMP
+FT                   synthase)"
+FT                   /db_xref="GeneID:886130"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218318.1"
+FT                   /translation="MFVTGESGMAYHNPFIVNGKIRFPANTNLVRHVEKWAKVRGDKLA
+FT                   YRFLDFSTERDGVARDILWSDFSARNRAVGARLQQVTQPGDRVAILCPQNLDYLISFFG
+FT                   ALYSGRIAVPLFDPAEPGHVGRLHAVLDDCAPSTILTTTDSAEGVRKFIRARSAKERPR
+FT                   VIAVDAVPTEVAATWQQPEANEETVAYLQYTSGSTRIPSGVQITHLNLPTNVVQVLNAL
+FT                   EGQEGDRGVSWLPFFHDMGLITVLLASVLGHSFTFMTPAAFVRRPGRWIRELARKPGET
+FT                   GGTFSAAPNFAFEHAAVRGVPRDDEPPLDLSNVKGILNGSEPVSPASMRKFFEAFAPYG
+FT                   LKQTAVKPSYGLAEATLFVSTTPMDEVPTVIHVDRDELNNQRFVEVAADAPNAVAQVSA
+FT                   GKVGVSEWAVIVDADTASELPDGQIGEIWLHGNNLGTGYWGKEEESAQTFKNILKSRIS
+FT                   ESRAEGAPDDALWVRTGDYGTYFKDHLYIAGRIKDLVIIDGRNHYPQDLECTAQESTKA
+FT                   LRVGYAAAFSVPANQLPQTVFDDSHAGLKFDPEDTSEQLVIVGERAAGTHKLDHQPIVD
+FT                   DIRAAIAVGHGVTVRDVLLVSAGTIPRTSSGKIGRRACRAAYLDGSLRSGVGSPTVFAT
+FT                   SD"
+FT   gene            join(4351075..4352181)
+FT                   /gene="PPE68"
+FT                   /locus_tag="Rv3873"
+FT                   /label=PPE68
+FT                   /db_xref="GeneID:886201"
+FT   CDS             join(4351075..4352181)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="PPE68"
+FT                   /locus_tag="Rv3873"
+FT                   /product="PPE family protein PPE68"
+FT                   /label=PPE68
+FT                   /note="Member of the Mycobacterium tuberculosis PPE
+FT                   family. A core mycobacterial gene; conserved in 
+FT                   mycobacterial strains (See Marmiesse et al., 2004 
+FT                   PMID:14766927). Predicted possible vaccine candidate (See 
+FT                   Zvi et al., 2008)."
+FT                   /db_xref="GeneID:886201"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="YP_178022.1"
+FT                   /translation="MLWHAMPPELNTARLMAGAGPAPMLAAAAGWQTLSAALDAQAVEL
+FT                   TARLNSLGEAWTGGGSDKALAAATPMVVWLQTASTQAKTRAMQATAQAAAYTQAMATTP
+FT                   SLPEIAANHITQAVLTATNFFGINTIPIALTEMDYFIRMWNQAALAMEVYQAETAVNTL
+FT                   FEKLEPMASILDPGASQSTTNPIFGMPSPGSSTPVGQLPPAATQTLGQLGEMSGPMQQL
+FT                   TQPLQQVTSLFSQVGGTGGGNPADEEAAQMGLLGTSPLSNHPLAGGSGPSAGAGLLRAE
+FT                   SLPGAGGSLTRTPLMSQLIEKPVAPSVMPAAAAGSSATGGAAPVGAGAMGQGAQSGGST
+FT                   RPGLVAPAPLAQEREEDDEDDWDEEDDW"
+FT   gene            join(4352274..4352576)
+FT                   /gene="esxB"
+FT                   /gene_synonym="cfp10; lhp"
+FT                   /locus_tag="Rv3874"
+FT                   /label=esxB
+FT                   /db_xref="GeneID:886194"
+FT   CDS             join(4352274..4352576)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="esxB"
+FT                   /gene_synonym="cfp10; lhp"
+FT                   /locus_tag="Rv3874"
+FT                   /product="ESAT-6-like protein EsxB"
+FT                   /label=esxB
+FT                   /db_xref="GeneID:886194"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="NP_218391.1"
+FT                   /translation="MAEMKTDAATLAQEAGNFERISGDLKTQIDQVESTAGSLQGQWRG
+FT                   AAGTAAQAAVVRFQEAANKQKQELDEISTNIRQAGVQYSRADEEQQQALSSQMGF"
+FT   gene            join(4352609..4352896)
+FT                   /gene="esxA"
+FT                   /gene_synonym="esat-6"
+FT                   /locus_tag="Rv3875"
+FT                   /label=esxA
+FT                   /db_xref="GeneID:886209"
+FT   CDS             join(4352609..4352896)
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="esxA"
+FT                   /gene_synonym="esat-6"
+FT                   /locus_tag="Rv3875"
+FT                   /product="ESAT-6 protein EsxA"
+FT                   /label=esxA
+FT                   /db_xref="GeneID:886209"
+FT                   /experiment="COORDINATES:Mass spectrometry[PMID:21969609]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:20429878]"
+FT                   /experiment="EXISTENCE:Mass spectrometry[PMID:21920479]"
+FT                   /protein_id="YP_178023.1"
+FT                   /translation="MTEQQWNFAGIEAAASAIQGNVTSIHSLLDEGKQSLTKLAAAWGG
+FT                   SGSEAYQGVQQKWDATATELNNALQNLARTISEAGQAMASTEGNVTGMFA"
