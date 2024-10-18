@@ -48,14 +48,29 @@ PPE58	3840982	3841512	update_position;add_note	;divergent C-term
 PPE59	3845095	3845637	update_position	;divergent sequence
 PE_PGRS54	3939628	3945387	update_position	
 ltp3	3964006	3964701	update_position;add_note	;large truncation in the N-term
-ERv3529c	3969872	3970732	update_position;pseudo	
-ERv3655c	4099119	4099775	update_position;pseudo	
+ERv3529c	3969872	3970732	update_position;pseudo
+ERv3655c	4099119	4099775	update_position;pseudo
 eccA2	4370087	4371466	update_position;add_note	;large truncation in the C-term
 mycP2	4373146	4374534	update_position;add_note;pseudo	;large truncation in the N-term
-PPE69	4379110	4380240	update_position	
+PPE69	4379110	4380240	update_position	;update
 PPE5			delete	overlaps with PPE6
 ERv3092c			delete	overlaps with ERv3093c
 ERv3427c			delete	overlaps with ERv3428c
 ERv3654c			delete	overlaps with ERv3655c
 RNAI			delete	remove for manual curation of barcoding plasmid
 aph(3')-Ia			add_note	; "aph_KanR" Kanamycin resistance gene in barcoding plasmid
+PPE47			delete	remove
+PPE48			delete	remove
+ERv3216			delete	remove
+pks4			delete	remove
+aceAb			delete	remove
+ERv2060			delete	remove
+ERv2083			delete	remove
+tmp_Erdman_3946			pseudo;add_note	;Make it a pseudogene
+tmp_Erdman_3947			pseudo;add_note	;Make it a pseudogene
+tmp_Erdman_0705			delete	
+tmp_Erdman_3764			delete	
+tmp_Erdman_3899			delete	
+tmp_Erdman_3138			delete	
+tmp_Erdman_4029			delete	
+tmp_Erdman_2439	2607393	2608283	update_position	;update
