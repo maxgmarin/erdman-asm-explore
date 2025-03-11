@@ -9,6 +9,13 @@ This repository contains all code and analysis needed to reproduce the genome as
   - [Supplemental Files](#supplemental-files)
 - [License](#license)
 
+## Assembly and sequencing data accessions
+
+NCBI RefSeq assembly: [GCA_044324775.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_044324775.1/) <br>
+NCBI BioSample: [SAMN43777470](https://www.ncbi.nlm.nih.gov/biosample?LinkName=bioproject_biosample_all&from_uid=1161419) <br>
+NCBI Bioproject: [PRJNA1161419](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1161419) <br>
+
+
 
 ## Assembly pipeline
 The sequencing reads (Oxford Nanopore & Illumina sequencing) used for genome assembly are available under SRA Bioproject ID [`PRJNA1161419`](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1161419)
