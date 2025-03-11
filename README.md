@@ -1,5 +1,5 @@
 # Erdman *de novo* assembly, annotation, and analysis
-This repository contains all code and analysis needed to reproduce the genome assembly and analysis of  *Complete genome sequence of a virulent barcoded Mycobacterium tuberculosis str. Erdman commonly used for non-human primate infection studies*. <br>
+This repository contains all code and analysis needed to reproduce the genome assembly and analysis of [*Complete genome sequence of a virulent barcoded Mycobacterium tuberculosis str. Erdman commonly used for non-human primate infection studies*](https://journals.asm.org/doi/10.1128/mra.01232-24). <br>
 
 ## Contents
 - [Assembly pipeline](#assembly-pipeline)
